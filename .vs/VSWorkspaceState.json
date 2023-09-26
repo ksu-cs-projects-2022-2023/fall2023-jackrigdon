@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github"
+    "\\.github",
+    "\\SkydiveAtlasAPI",
+    "\\SkydiveAtlasAPI\\Controllers"
   ],
+  "SelectedNode": "\\SkydiveAtlasAPI",
   "PreviewInSolutionExplorer": false
 }
