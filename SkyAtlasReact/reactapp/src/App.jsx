@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
+import axios from 'axios';
 import { GoogleMap, LoadScript, Marker, InfoWindow } from '@react-google-maps/api';
-/*import './App.css';*/
-
 
 const libraries = ["places"];
 
@@ -12,7 +11,8 @@ export default class App extends Component {
         super(props);
         this.state = {
             locations: [],
-            selectedLocation: null
+            selectedLocation: null,
+            weatherData: null
         };
         this.mapRef = React.createRef();
     }
@@ -57,10 +57,28 @@ export default class App extends Component {
                 }, 5000);
             } else {
                 console.error(`Error fetching places for query: ${this.queries[index]}`);
-                this.searchPlaces(index + 1);  // Continue with the next query even if the current one fails
+                this.searchPlaces(index + 1);
             }
         });
     }
+
+    getWeather = async (lat, lon) => {
+        const apiKey = '9a987c9434dd69ba9a0714016970da7e';
+        const url = `http://api.weatherstack.com/current?access_key=${apiKey}&query=${lat},${lon}`;
+
+        try {
+            const { data } = await axios.get(url);
+            return data;
+        } catch (error) {
+            console.error("Error fetching weather data", error);
+        }
+    }
+
+    onMarkerClick = async (location) => {
+        const weatherData = await this.getWeather(location.geometry.location.lat(), location.geometry.location.lng());
+        this.setState({ selectedLocation: location, weatherData });
+    }
+
     render() {
         const containerStyle = {
             width: '100vw',
@@ -76,7 +94,7 @@ export default class App extends Component {
             <div>
                 <h1 id="tabelLabel">Skydive Atlas</h1>
 
-                <LoadScript googleMapsApiKey="**************************" libraries={libraries}>
+                <LoadScript googleMapsApiKey="AIzaSyClDu1YNOnPcPgfqgI_D_HwqjslP-bBaQA" libraries={libraries}>
                     <GoogleMap
                         mapContainerStyle={containerStyle}
                         center={center}
@@ -89,7 +107,7 @@ export default class App extends Component {
                                     key={index}
                                     position={location.geometry.location}
                                     title={location.name}
-                                    onClick={() => this.setState({ selectedLocation: location })}
+                                    onClick={() => this.onMarkerClick(location)}
                                 >
                                     {this.state.selectedLocation === location && (
                                         <InfoWindow
@@ -102,6 +120,15 @@ export default class App extends Component {
                                                 <p>{location.formatted_phone_number}</p>
                                                 <a href={location.website} target="_blank" rel="noopener noreferrer">Visit Website</a>
                                                 <p>{location.opening_hours && location.opening_hours.weekday_text.join(', ')}</p>
+                                                {this.state.weatherData && this.state.weatherData.current && (
+                                                    <div>
+                                                        <h5>Weather:</h5>
+                                                        <p>{this.state.weatherData.current.weather_descriptions ? this.state.weatherData.current.weather_descriptions[0] : 'N/A'}</p>
+                                                        <p>Temperature: {this.state.weatherData.current.temperature ? this.state.weatherData.current.temperature + '°C' : 'N/A'}</p>
+                                                        <p>Wind: {this.state.weatherData.current.wind_speed ? this.state.weatherData.current.wind_speed + ' kph' : 'N/A'}</p>
+                                                    </div>
+                                                )}
+
                                             </div>
                                         </InfoWindow>
                                     )}
