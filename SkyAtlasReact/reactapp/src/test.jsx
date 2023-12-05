@@ -5,7 +5,7 @@ import { GoogleLogin } from '@react-oauth/google';
 import atlasLogo from './assets/AtlasLogo.png';
 
 const libraries = ["places"];
-
+const atlasLogo = './path-to-your-logo.png'; // Replace with your logo path
 
 const App = () => {
     const [locations, setLocations] = useState([]);

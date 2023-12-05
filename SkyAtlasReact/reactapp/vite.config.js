@@ -32,14 +32,12 @@ export default defineConfig({
     server: {
         proxy: {
             '^/weatherforecast': {
-                target: 'https://localhost:7123/',
+                target: 'http://localhost:7123/', // Make sure this is also HTTP if you want to proxy to a non-HTTPS service
                 secure: false
             }
         },
         port: 5173,
-        https: {
-            key: fs.readFileSync(keyFilePath),
-            cert: fs.readFileSync(certFilePath),
-        }
-    }
-})
+        // Removed the HTTPS configuration
+    },
+    assetsInclude: ['**/*.csv']
+});

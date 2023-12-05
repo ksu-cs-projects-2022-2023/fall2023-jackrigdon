@@ -1,5 +1,4 @@
 #root {
-  max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
@@ -44,6 +43,56 @@
 body, html {
     margin: 0;
     padding: 0;
-    overflow: hidden; /* This ensures no scrollbars appear */
+    background-color: #e0f7fa; /* Light blue color */
 }
 
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #e0f7fa; /* Light blue background color */
+    overflow: hidden;
+}
+
+/* Login Page Styles */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-box {
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.login-logo {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.login-title {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Main Page Styles */
+.main-container {
+    text-align: center;
+}
+
+#titleLabel {
+    margin-top: 0;
+    padding-top: 1px;
+}
+
+.map-container {
+    margin: 20px;
+    height: calc(100vh - 40px - 100px); /* Adjust the 60px based on your title's height */
+    width: calc(100vw - 100px);
+}

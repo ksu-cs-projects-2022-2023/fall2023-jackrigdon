@@ -13,7 +13,9 @@
   },
   "dependencies": {
     "@react-google-maps/api": "^2.19.2",
+    "@react-oauth/google": "^0.12.1",
     "cross-env": "^7.0.3",
+    "papaparse": "^5.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
