@@ -3,7 +3,7 @@ import axios from 'axios';
 import { GoogleMap, LoadScript, Marker, InfoWindow } from '@react-google-maps/api';
 import { GoogleLogin } from '@react-oauth/google';
 import atlasLogo from './assets/AtlasLogo.png';
-
+import './App.css';
 const libraries = ["places"];
 
 
@@ -12,26 +12,25 @@ const App = () => {
     const [selectedLocation, setSelectedLocation] = useState(null);
     const [isLoggedIn, setIsLoggedIn] = useState(false);
     const apiKey = '9a987c9434dd69ba9a0714016970da7e'; // Your API key
+    const [mapLoaded, setMapLoaded] = useState(false);
 
     useEffect(() => {
         const loadLocationsData = async () => {
             try {
-                const response = await fetch('/skydiving_locationz.json'); // Correct path
-                const loadedLocations = await response.json();
-                const locationsWithWeather = await Promise.all(loadedLocations.map(async loc => {
-                    const weatherData = await getWeather(loc.Latitude, loc.Longitude);
-                    return { ...loc, weatherData };
-                }));
-                setLocations(locationsWithWeather);
+                const response = await fetch('https://localhost:7187/WeatherForecast/skydiving-locations');
+                const data = await response.json();
+                console.log('Fetched data:', data); // Check the fetched data
+                setLocations(data);
             } catch (error) {
                 console.error('Error loading locations data:', error);
             }
         };
+        if(mapLoaded) { // Fetch data only after the map has loaded
+            loadLocationsData();
+        }
+    }, [mapLoaded]);
 
-        loadLocationsData();
-    }, []);
-
-    const getWeather = async (latitude, longitude) => {
+    /*const getWeather = async (latitude, longitude) => {
         const url = `https://api.weatherstack.com/current?access_key=${apiKey}&query=${latitude},${longitude}&units=f`;
         try {
             const response = await axios.get(url);
@@ -46,8 +45,8 @@ const App = () => {
             console.error("Error fetching weather data", error);
             return null;
         }
-    };
-
+    };*/
+    
     const handleLoginSuccess = response => {
         console.log('Login Success:', response);
         setIsLoggedIn(true);
@@ -57,7 +56,7 @@ const App = () => {
         console.error('Login Failed:', error);
     };
 
-    const containerStyle = { width: '100vw', height: '100vh' };
+    const containerStyle = { width: '100%', height: '100%' };
     const center = { lat: 38.5, lng: -98.0 };
 
     return (
@@ -83,35 +82,40 @@ const App = () => {
                                 mapContainerStyle={containerStyle}
                                 center={center}
                                 zoom={6}
+                                onLoad={() => setMapLoaded(true)}
                             >
                                 {locations.map((location, index) => (
                                     <Marker
                                         key={index}
-                                        position={{ lat: parseFloat(location.Latitude), lng: parseFloat(location.Longitude) }}
+                                        position={{ lat: location.latitude, lng: location.longitude }}
                                         title={location.Name}
                                         onClick={() => setSelectedLocation(location)}
                                     />
                                 ))}
                                 {selectedLocation && (
                                     <InfoWindow
-                                        position={{ lat: parseFloat(selectedLocation.Latitude), lng: parseFloat(selectedLocation.Longitude) }}
+                                            position={{ lat: selectedLocation.latitude, lng: selectedLocation.longitude }}
                                         onCloseClick={() => setSelectedLocation(null)}
                                     >
-                                        <div>
-                                            <h4>{selectedLocation.Name}</h4>
-                                            <p>Phone: {selectedLocation['Phone Number']}</p>
-                                            <a href={selectedLocation.Website} target="_blank" rel="noopener noreferrer">Visit Website</a>
-                                            <p>Hours: {selectedLocation['Hours of Operation'].join(', ')}</p>
-                                            {selectedLocation.weatherData && (
-                                                <div>
-                                                    <h5>Current Weather:</h5>
-                                                    <p>Cloud Cover: {location.weatherData.cloudcover}%</p>
-                                                    <p>Temperature: {location.weatherData.temperature}&deg;F</p>
-                                                    <p>Wind: {location.weatherData.wind_speed} mph</p>
-                                                    <p>Visibility: {location.weatherData.visibility} miles</p>
-                                                </div>
-                                            )}
-                                        </div>
+                                            <div>
+                                                <h4>{selectedLocation.name || 'Name Unavailable'}</h4>
+                                                <p>Phone: {selectedLocation.phoneNumber || 'Phone Number Unavailable'}</p>
+                                                <a href={selectedLocation.website || '#'} target="_blank" rel="noopener noreferrer">
+                                                    {selectedLocation.website ? 'Visit Website' : 'Website Unavailable'}
+                                                </a>
+                                                <p>Hours: {selectedLocation.hoursOfOperation ? selectedLocation.hoursOfOperation.join(', ') : 'Hours Unavailable'}</p>
+                                                {selectedLocation.weather ? (
+                                                    <div>
+                                                        <h5>Current Weather:</h5>
+                                                        <p>Cloud Cover: {selectedLocation.weather.cloudCover}%</p>
+                                                        <p>Temperature: {selectedLocation.weather.feelsLike}&deg;F</p>
+                                                        <p>Wind: {selectedLocation.weather.windSpeed} mph</p>
+                                                    </div>
+                                                ) : (
+                                                    <p>Weather Data Unavailable</p>
+                                                )}
+                                            </div>
+
                                     </InfoWindow>
                                 )}
                             </GoogleMap>

@@ -1,0 +1,5058 @@
+[
+    {
+        "Name": "Skydive Alabama",
+        "Phone Number": "(256) 736-5553",
+        "Website": "https://www.skydivealabama.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 8:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 AM - 8:00 PM",
+            "Thursday: 10:00 AM - 8:00 PM",
+            "Friday: 10:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 34.2671811,
+        "Longitude": -86.8605575
+    },
+    {
+        "Name": "Skydive The Gulf",
+        "Phone Number": "(850) 543-8756",
+        "Website": "https://www.skydivethegulf.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 6:00 PM",
+            "Tuesday: 8:00 AM - 6:00 PM",
+            "Wednesday: 8:00 AM - 6:00 PM",
+            "Thursday: 8:00 AM - 6:00 PM",
+            "Friday: 8:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 AM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 30.4290019,
+        "Longitude": -87.53909449999999
+    },
+    {
+        "Name": "Phoenix Skydive Center",
+        "Phone Number": "(520) 840-9095",
+        "Website": "https://www.phoenixskydivecenter.com/",
+        "Hours of Operation": [
+            "Monday: 6:00 AM - 6:00 PM",
+            "Tuesday: 6:00 AM - 6:00 PM",
+            "Wednesday: 6:00 AM - 6:00 PM",
+            "Thursday: 6:00 AM - 6:00 PM",
+            "Friday: 6:00 AM - 6:00 PM",
+            "Saturday: 6:00 AM - 6:00 PM",
+            "Sunday: 6:00 AM - 6:00 PM"
+        ],
+        "Latitude": 32.9551685,
+        "Longitude": -111.7608839
+    },
+    {
+        "Name": "Skydive Phoenix Inc",
+        "Phone Number": "(480) 557-5867",
+        "Website": "http://www.skydivephoenix.net/",
+        "Hours of Operation": [
+            "Monday: 6:30 AM - 6:00 PM",
+            "Tuesday: 6:30 AM - 6:00 PM",
+            "Wednesday: 6:30 AM - 6:00 PM",
+            "Thursday: 6:30 AM - 6:00 PM",
+            "Friday: 6:00 AM - 6:30 PM",
+            "Saturday: 6:00 AM - 6:30 PM",
+            "Sunday: 6:00 AM - 5:00 PM"
+        ],
+        "Latitude": 33.05369299999999,
+        "Longitude": -112.1765626
+    },
+    {
+        "Name": "Skydive Arizona",
+        "Phone Number": "(877) 313-5867",
+        "Website": "http://www.skydiveaz.com/",
+        "Hours of Operation": [
+            "Monday: 7:45 AM - 5:00 PM",
+            "Tuesday: 7:45 AM - 5:00 PM",
+            "Wednesday: 7:45 AM - 5:00 PM",
+            "Thursday: 7:45 AM - 5:00 PM",
+            "Friday: 7:45 AM - 5:00 PM",
+            "Saturday: 7:45 AM - 5:00 PM",
+            "Sunday: 7:45 AM - 5:00 PM"
+        ],
+        "Latitude": 32.80543950000001,
+        "Longitude": -111.5819458
+    },
+    {
+        "Name": "Skydive Buckeye",
+        "Phone Number": "(623) 980-4888",
+        "Website": "http://www.skydivebuckeye.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 2:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 8:00 AM - 2:00 PM",
+            "Friday: 8:00 AM - 2:00 PM",
+            "Saturday: 8:00 AM - 2:00 PM",
+            "Sunday: 8:00 AM - 2:00 PM"
+        ],
+        "Latitude": 33.4201777,
+        "Longitude": -112.6825531
+    },
+    {
+        "Name": "Skydive The Grand Canyon",
+        "Phone Number": "(928) 224-9661",
+        "Website": "http://www.skydivegc.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 35.95975599999999,
+        "Longitude": -112.135688
+    },
+    {
+        "Name": "Skydive Marana",
+        "Phone Number": "(520) 682-4441",
+        "Website": "http://www.skydivemarana.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 4:00 PM",
+            "Tuesday: 8:00 AM - 4:00 PM",
+            "Wednesday: 8:00 AM - 4:00 PM",
+            "Thursday: 8:00 AM - 4:00 PM",
+            "Friday: 8:00 AM - 4:00 PM",
+            "Saturday: 8:00 AM - 4:00 PM",
+            "Sunday: 8:00 AM - 4:00 PM"
+        ],
+        "Latitude": 32.4087739,
+        "Longitude": -111.2237787
+    },
+    {
+        "Name": "Adventures in Skydiving",
+        "Phone Number": "(520) 466-3753",
+        "Website": "http://www.adventuresinsjydiving.com/",
+        "Hours of Operation": [
+            "Monday: 7:00 AM - 5:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 7:00 AM - 5:00 PM",
+            "Friday: 7:00 AM - 5:00 PM",
+            "Saturday: 7:00 AM - 5:00 PM",
+            "Sunday: 7:00 AM - 5:00 PM"
+        ],
+        "Latitude": 32.8048982,
+        "Longitude": -111.582042
+    },
+    {
+        "Name": "SkyVenture Arizona Llc",
+        "Phone Number": "(520) 466-4640",
+        "Website": "http://www.skyventureaz.com/",
+        "Hours of Operation": [
+            "Monday: 7:00 AM - 7:00 PM",
+            "Tuesday: 7:00 AM - 7:00 PM",
+            "Wednesday: 7:00 AM - 7:00 PM",
+            "Thursday: 7:00 AM - 7:00 PM",
+            "Friday: 7:00 AM - 7:00 PM",
+            "Saturday: 7:00 AM - 7:00 PM",
+            "Sunday: 7:00 AM - 7:00 PM"
+        ],
+        "Latitude": 32.8063903,
+        "Longitude": -111.5770321
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Phoenix",
+        "Phone Number": "(480) 712-4359",
+        "Website": "https://www.iflyworld.com/phoenix?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 11:00 AM - 7:30 PM",
+            "Tuesday: 11:00 AM - 7:30 PM",
+            "Wednesday: 11:00 AM - 7:30 PM",
+            "Thursday: 11:00 AM - 6:00 PM",
+            "Friday: 10:00 AM - 8:00 PM",
+            "Saturday: 9:00 AM - 10:00 PM",
+            "Sunday: 9:00 AM - 8:00 PM"
+        ],
+        "Latitude": 33.53992,
+        "Longitude": -111.882359
+    },
+    {
+        "Name": "Desert Skies Parachute Rigging",
+        "Phone Number": "(520) 233-1245",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 32.8047111,
+        "Longitude": -111.5820103
+    },
+    {
+        "Name": "AXIS Flight School",
+        "Phone Number": "(520) 466-4200",
+        "Website": "https://axisflightschool.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 5:00 PM",
+            "Tuesday: 8:00 AM - 5:00 PM",
+            "Wednesday: 8:00 AM - 5:00 PM",
+            "Thursday: 8:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 5:00 PM",
+            "Saturday: 8:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 32.805171,
+        "Longitude": -111.581129
+    },
+    {
+        "Name": "Greythorn Drop Zone",
+        "Phone Number": null,
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 34.5272072,
+        "Longitude": -109.6553564
+    },
+    {
+        "Name": "Sawtooth Dropzone",
+        "Phone Number": null,
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 32.6615905,
+        "Longitude": -111.6754684
+    },
+    {
+        "Name": "Patriot Skies",
+        "Phone Number": "(602) 300-5767",
+        "Website": "http://www.patriotskies.com/contact.html",
+        "Hours of Operation": null,
+        "Latitude": 33.4863942,
+        "Longitude": -111.9103522
+    },
+    {
+        "Name": "Skydive Fayetteville",
+        "Phone Number": "(479) 270-8855",
+        "Website": "http://fayettefall.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 36.0031967,
+        "Longitude": -94.1719665
+    },
+    {
+        "Name": "Paradise Valley Skydiving",
+        "Phone Number": "(479) 858-1478",
+        "Website": "https://www.paradisevalleyskydiving.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 7:00 AM - 5:00 AM",
+            "Sunday: 7:00 AM - 5:00 AM"
+        ],
+        "Latitude": 35.4700052,
+        "Longitude": -93.4333613
+    },
+    {
+        "Name": "Adventure Skydive Center, LLC. Siloam Springs, AR",
+        "Phone Number": "(479) 228-0029",
+        "Website": "https://mygbp.site/oklahoma/adventure-skydive-center/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 6:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 35.4378706,
+        "Longitude": -94.8053705
+    },
+    {
+        "Name": "Skydive Coastal California",
+        "Phone Number": "(805) 322-4763",
+        "Website": "http://www.skydivecoastalcalifornia.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 4:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 8:00 AM - 4:00 PM",
+            "Friday: 8:00 AM - 4:00 PM",
+            "Saturday: 8:00 AM - 4:00 PM",
+            "Sunday: 8:00 AM - 4:00 PM"
+        ],
+        "Latitude": 34.208243,
+        "Longitude": -119.07919
+    },
+    {
+        "Name": "Skydive California",
+        "Phone Number": "(209) 835-7474",
+        "Website": "https://skydivecalifornia.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 37.7293005,
+        "Longitude": -121.3322361
+    },
+    {
+        "Name": "Silicon Valley Skydiving",
+        "Phone Number": "(800) 386-5867",
+        "Website": "https://siliconvalleyskydiving.com/?utm_source=GMB&utm_medium=organic&utm_campaign=office",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 4:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 AM - 4:00 PM",
+            "Thursday: 10:00 AM - 4:00 PM",
+            "Friday: 10:00 AM - 4:00 PM",
+            "Saturday: 10:00 AM - 7:30 PM",
+            "Sunday: 11:30 AM - 7:30 PM"
+        ],
+        "Latitude": 37.0779155,
+        "Longitude": -121.5987507
+    },
+    {
+        "Name": "Skydive Perris",
+        "Phone Number": "(951) 657-1664",
+        "Website": "https://skydiveperris.com/",
+        "Hours of Operation": [
+            "Monday: 7:00 AM - 5:30 PM",
+            "Tuesday: 7:00 AM - 5:30 PM",
+            "Wednesday: 7:00 AM - 5:30 PM",
+            "Thursday: 7:00 AM - 5:30 PM",
+            "Friday: 7:00 AM - 5:30 PM",
+            "Saturday: 7:00 AM - 5:30 PM",
+            "Sunday: 7:00 AM - 5:30 PM"
+        ],
+        "Latitude": 33.76342630000001,
+        "Longitude": -117.2212189
+    },
+    {
+        "Name": "Skydive San Joaquin Valley Inc.",
+        "Phone Number": "(661) 858-2972",
+        "Website": "http://skydivesanjoaquinvalley.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 35.0950471,
+        "Longitude": -119.0750734
+    },
+    {
+        "Name": "Skydive Yosemite",
+        "Phone Number": "(209) 372-5001",
+        "Website": "http://www.skydiveyosemite.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 7:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 7:00 PM",
+            "Saturday: 9:00 AM - 7:00 PM",
+            "Sunday: 9:00 AM - 7:00 PM"
+        ],
+        "Latitude": 37.5136431,
+        "Longitude": -120.0391349
+    },
+    {
+        "Name": "Skydive Monterey Bay",
+        "Phone Number": "(831) 384-3483",
+        "Website": "http://www.skydivemontereybay.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 5:00 PM",
+            "Tuesday: 8:00 AM - 5:00 PM",
+            "Wednesday: 8:00 AM - 5:00 PM",
+            "Thursday: 8:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 5:00 PM",
+            "Saturday: 8:00 AM - 5:30 PM",
+            "Sunday: 8:00 AM - 5:30 PM"
+        ],
+        "Latitude": 36.6815715,
+        "Longitude": -121.7690284
+    },
+    {
+        "Name": "Skydive Golden Gate",
+        "Phone Number": "(415) 770-4011",
+        "Website": "http://www.skydivegoldengate.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ],
+        "Latitude": 38.1409708,
+        "Longitude": -122.5581825
+    },
+    {
+        "Name": "Skydive Santa Barbara",
+        "Phone Number": "(805) 740-0000",
+        "Website": "https://www.skydivesantabarbara.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 34.666707,
+        "Longitude": -120.4586021
+    },
+    {
+        "Name": "Tsunami Skydivers - Skydive Oceanside",
+        "Phone Number": "(760) 390-5867",
+        "Website": null,
+        "Hours of Operation": [
+            "Monday: 7:00 AM - 8:00 PM",
+            "Tuesday: 7:00 AM - 8:00 PM",
+            "Wednesday: 7:00 AM - 8:00 PM",
+            "Thursday: 7:00 AM - 8:00 PM",
+            "Friday: 7:00 AM - 8:00 PM",
+            "Saturday: 7:00 AM - 8:00 PM",
+            "Sunday: 7:00 AM - 8:00 PM"
+        ],
+        "Latitude": 33.2171511,
+        "Longitude": -117.3523287
+    },
+    {
+        "Name": "Skydive Elsinore",
+        "Phone Number": "(951) 245-9939",
+        "Website": "http://www.skydiveelsinore.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 7:30 AM - 5:00 PM",
+            "Sunday: 7:30 AM - 5:00 PM"
+        ],
+        "Latitude": 33.6306512,
+        "Longitude": -117.2957168
+    },
+    {
+        "Name": "Bay Area Skydiving",
+        "Phone Number": "(925) 634-7575",
+        "Website": "http://www.bayareaskydiving.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 37.8350163,
+        "Longitude": -121.6328325
+    },
+    {
+        "Name": "Norcal Skydiving",
+        "Phone Number": "(888) 667-2259",
+        "Website": "https://norcalskydiving.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 38.7739144,
+        "Longitude": -122.9926289
+    },
+    {
+        "Name": "Skydive Taft",
+        "Phone Number": "(661) 765-5867",
+        "Website": "https://www.skydivetaft.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 6:00 PM",
+            "Tuesday: 8:00 AM - 6:00 PM",
+            "Wednesday: 8:00 AM - 6:00 PM",
+            "Thursday: 8:00 AM - 6:00 PM",
+            "Friday: 8:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 35.1409935,
+        "Longitude": -119.4452211
+    },
+    {
+        "Name": "Skydive Lodi Parachute Center",
+        "Phone Number": "(209) 369-1128",
+        "Website": "http://parachutecenter.com/",
+        "Hours of Operation": null,
+        "Latitude": 38.199847,
+        "Longitude": -121.263703
+    },
+    {
+        "Name": "Pacific Coast Skydiving",
+        "Phone Number": "(619) 661-0194",
+        "Website": "http://www.pacificcoastskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 6:00 PM",
+            "Tuesday: 8:00 AM - 6:00 PM",
+            "Wednesday: 8:00 AM - 6:00 PM",
+            "Thursday: 8:00 AM - 6:00 PM",
+            "Friday: 8:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 32.5709167,
+        "Longitude": -116.9931972
+    },
+    {
+        "Name": "Skydive California - Shuttle Service Center",
+        "Phone Number": "(209) 839-7474",
+        "Website": "https://skydivecalifornia.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": null,
+        "Latitude": 37.8070452,
+        "Longitude": -122.4157239
+    },
+    {
+        "Name": "Skydive Santa Cruz",
+        "Phone Number": "(831) 435-5169",
+        "Website": "https://www.santacruz-skydiving.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 4:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 10:00 AM - 4:00 PM",
+            "Friday: 10:00 AM - 4:00 PM",
+            "Saturday: 9:30 AM - 4:00 PM",
+            "Sunday: 9:30 AM - 4:00 PM"
+        ],
+        "Latitude": 36.932685,
+        "Longitude": -121.790608
+    },
+    {
+        "Name": "Skydive San Diego",
+        "Phone Number": "(619) 216-8416",
+        "Website": "https://skydivesandiego.com/",
+        "Hours of Operation": null,
+        "Latitude": 32.63510839999999,
+        "Longitude": -116.8912441
+    },
+    {
+        "Name": "SkyDance SkyDiving",
+        "Phone Number": "(530) 753-2651",
+        "Website": "https://skydanceskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 8:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 38.58485399999999,
+        "Longitude": -121.853415
+    },
+    {
+        "Name": "Colorado Mountain Skydive",
+        "Phone Number": "(719) 285-4050",
+        "Website": "http://www.coloradomountainskydive.com/",
+        "Hours of Operation": [
+            "Monday: 9:30 AM - 5:00 PM",
+            "Tuesday: 9:30 AM - 5:00 PM",
+            "Wednesday: 9:30 AM - 5:00 PM",
+            "Thursday: 9:30 AM - 5:30 PM",
+            "Friday: 9:30 AM - 5:00 PM",
+            "Saturday: 9:30 AM - 5:00 PM",
+            "Sunday: 9:30 AM - 5:00 PM"
+        ],
+        "Latitude": 38.4311108,
+        "Longitude": -105.1004018
+    },
+    {
+        "Name": "Mile-Hi Skydiving Center, Inc.",
+        "Phone Number": "(303) 702-9911",
+        "Website": "http://www.milehiskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 3:00 PM",
+            "Saturday: 9:00 AM - 3:00 PM",
+            "Sunday: 9:00 AM - 3:00 PM"
+        ],
+        "Latitude": 40.16641920000001,
+        "Longitude": -105.1617198
+    },
+    {
+        "Name": "Rocky Mountain Skydive",
+        "Phone Number": "(303) 944-9708",
+        "Website": "http://rockymountainskydive.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: Closed",
+            "Friday: 9:00 AM - 4:00 PM",
+            "Saturday: 9:00 AM - 4:00 PM",
+            "Sunday: 9:00 AM - 4:00 PM"
+        ],
+        "Latitude": 40.3302789,
+        "Longitude": -104.612175
+    },
+    {
+        "Name": "Out of the Blue Skydiving",
+        "Phone Number": "(719) 784-1166",
+        "Website": "http://www.outoftheblueskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 39.26990850000001,
+        "Longitude": -103.6667162
+    },
+    {
+        "Name": "Ultimate Skydiving Adventures",
+        "Phone Number": "(970) 589-9490",
+        "Website": "http://www.ultimateskydivingadventures.com/",
+        "Hours of Operation": [
+            "Monday: 7:00 AM - 8:00 PM",
+            "Tuesday: 7:00 AM - 8:00 PM",
+            "Wednesday: 7:00 AM - 8:00 PM",
+            "Thursday: 7:00 AM - 8:00 PM",
+            "Friday: 7:00 AM - 8:00 PM",
+            "Saturday: 7:00 AM - 8:00 PM",
+            "Sunday: 7:00 AM - 8:00 PM"
+        ],
+        "Latitude": 38.7805127,
+        "Longitude": -108.0662103
+    },
+    {
+        "Name": "Skydive Orange Skies",
+        "Phone Number": "(720) 880-8930",
+        "Website": "http://skydiveorangeskies.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 6:30 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM - 6:30 PM",
+            "Friday: 9:00 AM - 6:30 PM",
+            "Saturday: 9:00 AM - 6:30 PM",
+            "Sunday: 9:00 AM - 6:30 PM"
+        ],
+        "Latitude": 40.3270628,
+        "Longitude": -103.8040294
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Colorado Springs",
+        "Phone Number": "(719) 400-4359",
+        "Website": "https://www.iflyworld.com/colorado-springs/",
+        "Hours of Operation": [
+            "Monday: 1:00 - 7:00 PM",
+            "Tuesday: 12:00 - 7:00 PM",
+            "Wednesday: 1:00 - 7:00 PM",
+            "Thursday: 12:00 - 7:00 PM",
+            "Friday: 12:00 - 7:00 PM",
+            "Saturday: 10:00 AM - 7:00 PM",
+            "Sunday: 11:00 AM - 5:00 PM"
+        ],
+        "Latitude": 39.0215492,
+        "Longitude": -104.8245162
+    },
+    {
+        "Name": "High Sky Adventures",
+        "Phone Number": "(719) 598-5867",
+        "Website": "http://www.highskyadventurespc.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 9:00 AM - 9:00 PM",
+            "Saturday: 8:00 AM - 9:00 PM",
+            "Sunday: 8:00 AM - 9:00 PM"
+        ],
+        "Latitude": 38.4337406,
+        "Longitude": -105.102774
+    },
+    {
+        "Name": "Northern Colorado Skydive Club",
+        "Phone Number": null,
+        "Website": null,
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 1:00 PM - 7:30 AM",
+            "Saturday: 9:00 AM - 7:30 AM",
+            "Sunday: 9:00 AM - 7:30 AM"
+        ],
+        "Latitude": 40.323706,
+        "Longitude": -104.606344
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Denver",
+        "Phone Number": "(303) 768-9000",
+        "Website": "https://www.iflyworld.com/denver/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 12:00 - 7:00 PM",
+            "Tuesday: 12:00 - 7:00 PM",
+            "Wednesday: 12:00 - 7:00 PM",
+            "Thursday: 12:00 - 7:00 PM",
+            "Friday: 12:00 - 7:00 PM",
+            "Saturday: 10:00 AM - 6:00 PM",
+            "Sunday: 10:00 AM - 6:00 PM"
+        ],
+        "Latitude": 39.554109,
+        "Longitude": -104.882747
+    },
+    {
+        "Name": "Roaring Fork Skydivers",
+        "Phone Number": "(970) 364-3737",
+        "Website": "https://roaringforkskydivers.com/",
+        "Hours of Operation": null,
+        "Latitude": 39.5074627,
+        "Longitude": -107.3092738
+    },
+    {
+        "Name": "Skydive United",
+        "Phone Number": "(719) 338-8048",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 38.930701,
+        "Longitude": -104.352423
+    },
+    {
+        "Name": "Skydive Danielson",
+        "Phone Number": "(860) 774-5867",
+        "Website": "http://www.skydivedanielson.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 6:00 PM",
+            "Tuesday: 9:00 AM - 6:00 PM",
+            "Wednesday: 9:00 AM - 6:00 PM",
+            "Thursday: 9:00 AM - 6:00 PM",
+            "Friday: 9:00 AM - 6:00 PM",
+            "Saturday: 9:00 AM - 6:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 41.822857,
+        "Longitude": -71.899822
+    },
+    {
+        "Name": "Connecticut Parachutists, Inc",
+        "Phone Number": "(860) 871-0021",
+        "Website": "https://skydivect.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 10:00 AM - 5:00 PM",
+            "Sunday: 10:00 AM - 5:00 PM"
+        ],
+        "Latitude": 41.9231737,
+        "Longitude": -72.45610649999999
+    },
+    {
+        "Name": "Gravity Won Skydiving",
+        "Phone Number": null,
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 41.5014202,
+        "Longitude": -72.18522879999999
+    },
+    {
+        "Name": "Skydive OC",
+        "Phone Number": "(410) 213-1319",
+        "Website": "https://www.skydiveoc.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 38.309676,
+        "Longitude": -75.120317
+    },
+    {
+        "Name": "Skydive Chesapeake",
+        "Phone Number": "(201) 477-0525",
+        "Website": "http://skydivechesapeake.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 10:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 38.9682598,
+        "Longitude": -75.8705199
+    },
+    {
+        "Name": "Skydive Baltimore",
+        "Phone Number": "(410) 734-4888",
+        "Website": "http://www.skydivebaltimore.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 39.5704285,
+        "Longitude": -76.2062948
+    },
+    {
+        "Name": "Skydive Cross Keys",
+        "Phone Number": "(856) 629-7553",
+        "Website": "https://www.skydivecrosskeys.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 AM - 5:00 PM",
+            "Thursday: 10:00 AM - 5:00 PM",
+            "Friday: 10:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 39.70656139999999,
+        "Longitude": -75.0326432
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - King of Prussia",
+        "Phone Number": "(610) 595-4359",
+        "Website": "http://www.iflyworld.com/king-of-prussia?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 11:00 AM - 8:00 PM",
+            "Tuesday: 11:00 AM - 8:00 PM",
+            "Wednesday: 11:00 AM - 8:00 PM",
+            "Thursday: 11:00 AM - 8:00 PM",
+            "Friday: 11:00 AM - 8:30 PM",
+            "Saturday: 10:00 AM - 9:00 PM",
+            "Sunday: 10:00 AM - 8:00 PM"
+        ],
+        "Latitude": 40.09290000000001,
+        "Longitude": -75.400829
+    },
+    {
+        "Name": "Skydive Delmarva Inc.",
+        "Phone Number": null,
+        "Website": "http://shorewebsolutions.com/skydivedelmarva",
+        "Hours of Operation": null,
+        "Latitude": 38.541645,
+        "Longitude": -75.591484
+    },
+    {
+        "Name": "Jump Florida Skydiving",
+        "Phone Number": "(888) 313-5867",
+        "Website": "https://jumpfloridaskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 6:00 PM",
+            "Tuesday: 8:00 AM - 6:00 PM",
+            "Wednesday: 8:00 AM - 6:00 PM",
+            "Thursday: 8:00 AM - 6:00 PM",
+            "Friday: 8:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 28.1380988,
+        "Longitude": -82.14784879999999
+    },
+    {
+        "Name": "Jump Florida Skydiving",
+        "Phone Number": "(352) 461-3461",
+        "Website": "http://www.jumpfloridaskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 7:00 AM - 7:00 PM",
+            "Tuesday: 7:00 AM - 7:00 PM",
+            "Wednesday: 7:00 AM - 7:00 PM",
+            "Thursday: 7:00 AM - 7:00 PM",
+            "Friday: 7:00 AM - 7:00 PM",
+            "Saturday: 7:00 AM - 7:00 PM",
+            "Sunday: 7:00 AM - 7:00 PM"
+        ],
+        "Latitude": 27.8958096,
+        "Longitude": -81.6194232
+    },
+    {
+        "Name": "Skydive Spaceland Florida",
+        "Phone Number": "(863) 983-6151",
+        "Website": "https://florida.skydivespaceland.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 7:30 AM - 6:00 PM",
+            "Sunday: 7:30 AM - 6:00 PM"
+        ],
+        "Latitude": 26.735339,
+        "Longitude": -81.048974
+    },
+    {
+        "Name": "Skydive SW Florida Club",
+        "Phone Number": "(941) 875-8554",
+        "Website": "http://www.skydiveswflorida.com/",
+        "Hours of Operation": [
+            "Monday: 8:30 AM - 3:00 PM",
+            "Tuesday: 8:30 AM - 3:00 PM",
+            "Wednesday: 8:30 AM - 3:00 PM",
+            "Thursday: 8:30 AM - 3:00 PM",
+            "Friday: 8:30 AM - 3:00 PM",
+            "Saturday: 8:30 AM - 4:00 PM",
+            "Sunday: 8:30 AM - 4:00 PM"
+        ],
+        "Latitude": 26.9677793,
+        "Longitude": -81.915306
+    },
+    {
+        "Name": "Skydive City Zephyrhills, ZHills, Zephyrhills Parachute Center",
+        "Phone Number": "(813) 783-9399",
+        "Website": "http://www.skydivecity.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 6:00 PM",
+            "Tuesday: 9:00 AM - 6:00 PM",
+            "Wednesday: 9:00 AM - 6:00 PM",
+            "Thursday: 9:00 AM - 6:00 PM",
+            "Friday: 9:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 28.2198462,
+        "Longitude": -82.1506347
+    },
+    {
+        "Name": "Skydive Key West",
+        "Phone Number": "(305) 396-8806",
+        "Website": "http://skydivekeywest.com/?utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ],
+        "Latitude": 24.6483609,
+        "Longitude": -81.57364799999999
+    },
+    {
+        "Name": "Skydive Space Center",
+        "Phone Number": "(800) 823-0016",
+        "Website": "http://www.skydivespacecenter.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 28.62028,
+        "Longitude": -80.832256
+    },
+    {
+        "Name": "Skydive DeLand, Inc.",
+        "Phone Number": "(386) 738-3539",
+        "Website": "http://www.skydivedeland.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 5:00 PM",
+            "Tuesday: 8:00 AM - 5:00 PM",
+            "Wednesday: 8:00 AM - 5:00 PM",
+            "Thursday: 8:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 5:00 PM",
+            "Saturday: 8:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 29.063578,
+        "Longitude": -81.279279
+    },
+    {
+        "Name": "Central Florida Skydiving",
+        "Phone Number": "(352) 208-7758",
+        "Website": "http://centralfloridaskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 29.0621507,
+        "Longitude": -82.37009870000001
+    },
+    {
+        "Name": "Skydive Sebastian",
+        "Phone Number": "(772) 388-5672",
+        "Website": "https://skydiveseb.com/?utm_medium=gmb&utm_source=gmb",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 8:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 27.8167228,
+        "Longitude": -80.500946
+    },
+    {
+        "Name": "Skydive Palatka",
+        "Phone Number": "(386) 328-0606",
+        "Website": "http://www.skydivepalatka.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 10:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 29.6605082,
+        "Longitude": -81.6823422
+    },
+    {
+        "Name": "Skydive Palm Beach",
+        "Phone Number": "(561) 586-7669",
+        "Website": "http://skydivepalmbeach.com/",
+        "Hours of Operation": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ],
+        "Latitude": 26.7886886,
+        "Longitude": -80.691452
+    },
+    {
+        "Name": "Skydive Amelia Island",
+        "Phone Number": "(904) 718-4648",
+        "Website": "https://www.skydiveameliaisland.com/",
+        "Hours of Operation": [
+            "Monday: 6:00 AM - 6:00 PM",
+            "Tuesday: 6:00 AM - 6:00 PM",
+            "Wednesday: 6:00 AM - 6:00 PM",
+            "Thursday: 6:00 AM - 6:00 PM",
+            "Friday: 6:00 AM - 6:00 PM",
+            "Saturday: 6:00 AM - 6:00 PM",
+            "Sunday: 6:00 AM - 6:00 PM"
+        ],
+        "Latitude": 30.6168262,
+        "Longitude": -81.4677694
+    },
+    {
+        "Name": "Miami Skydiving Center",
+        "Phone Number": "(305) 235-3483",
+        "Website": "http://www.miamiskydivingcenter.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 9:00 PM",
+            "Tuesday: 8:00 AM - 9:00 PM",
+            "Wednesday: 8:00 AM - 9:00 PM",
+            "Thursday: 8:00 AM - 9:00 PM",
+            "Friday: 8:00 AM - 9:00 PM",
+            "Saturday: 8:00 AM - 9:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 25.6465591,
+        "Longitude": -80.426524
+    },
+    {
+        "Name": "iSkydive Miami",
+        "Phone Number": "(305) 759-3483",
+        "Website": "https://iskydive.com/miami/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 6:00 PM",
+            "Tuesday: 8:00 AM - 6:00 PM",
+            "Wednesday: 8:00 AM - 6:00 PM",
+            "Thursday: 8:00 AM - 6:00 PM",
+            "Friday: 8:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 25.5016056,
+        "Longitude": -80.54863979999999
+    },
+    {
+        "Name": "World Skydiving Center - Jacksonville",
+        "Phone Number": "(904) 250-5903",
+        "Website": "http://www.worldskydivingcenter.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 8:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 30.2765595,
+        "Longitude": -81.8195724
+    },
+    {
+        "Name": "Skydive Panama City",
+        "Phone Number": "(850) 899-2707",
+        "Website": "http://www.xtremeskydivers.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 30.8485434,
+        "Longitude": -85.6040244
+    },
+    {
+        "Name": "Orlando Skydiving Center",
+        "Phone Number": "(321) 747-6808",
+        "Website": "http://www.skydivespacecenter.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 28.6191695,
+        "Longitude": -80.8317934
+    },
+    {
+        "Name": "Skydive Melbourne Beach",
+        "Phone Number": "(321) 977-5097",
+        "Website": "http://www.skydivemelbournebeach.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 8:00 PM",
+            "Tuesday: 9:00 AM - 8:00 PM",
+            "Wednesday: 9:00 AM - 8:00 PM",
+            "Thursday: 9:00 AM - 8:00 PM",
+            "Friday: 9:00 AM - 8:00 PM",
+            "Saturday: 8:30 AM - 8:00 PM",
+            "Sunday: 8:30 AM - 5:00 PM"
+        ],
+        "Latitude": 28.0676307,
+        "Longitude": -80.5564751
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Orlando",
+        "Phone Number": "(407) 337-4359",
+        "Website": "https://www.iflyworld.com/orlando?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 1:00 - 8:00 PM",
+            "Tuesday: 1:00 - 8:00 PM",
+            "Wednesday: 1:00 - 8:00 PM",
+            "Thursday: 1:00 - 8:00 PM",
+            "Friday: 11:00 AM - 8:30 PM",
+            "Saturday: 10:00 AM - 8:00 PM",
+            "Sunday: 10:00 AM - 7:00 PM"
+        ],
+        "Latitude": 28.434383,
+        "Longitude": -81.471724
+    },
+    {
+        "Name": "Skydive Georgia",
+        "Phone Number": "(770) 684-3483",
+        "Website": "https://www.skydivegeorgia.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 34.01726009999999,
+        "Longitude": -85.1485744
+    },
+    {
+        "Name": "Skydive Atlanta",
+        "Phone Number": "(706) 647-9701",
+        "Website": "http://www.skydiveatlanta.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 7:00 PM",
+            "Tuesday: 9:00 AM - 7:00 PM",
+            "Wednesday: 9:00 AM - 7:00 PM",
+            "Thursday: 9:00 AM - 7:00 PM",
+            "Friday: 9:00 AM - 7:00 PM",
+            "Saturday: 9:00 AM - 8:00 PM",
+            "Sunday: 9:00 AM - 8:00 PM"
+        ],
+        "Latitude": 32.951562,
+        "Longitude": -84.26256599999999
+    },
+    {
+        "Name": "Skydive Spaceland Atlanta",
+        "Phone Number": "(770) 748-2200",
+        "Website": "https://atlanta.skydivespaceland.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 5:00 PM",
+            "Tuesday: 8:00 AM - 5:00 PM",
+            "Wednesday: 8:00 AM - 5:00 PM",
+            "Thursday: 8:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 5:00 PM",
+            "Saturday: 7:30 AM - 5:30 PM",
+            "Sunday: 7:30 AM - 5:30 PM"
+        ],
+        "Latitude": 33.97682569999999,
+        "Longitude": -85.16588589999999
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Atlanta",
+        "Phone Number": "(678) 803-4359",
+        "Website": "http://www.iflyworld.com/atlanta?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 11:00 AM - 7:30 PM",
+            "Tuesday: 11:00 AM - 7:30 PM",
+            "Wednesday: 11:00 AM - 7:30 PM",
+            "Thursday: 11:00 AM - 7:30 PM",
+            "Friday: 12:00 - 8:00 PM",
+            "Saturday: 9:00 AM - 9:00 PM",
+            "Sunday: 10:00 AM - 7:00 PM"
+        ],
+        "Latitude": 33.884723,
+        "Longitude": -84.471283
+    },
+    {
+        "Name": "Atlanta Skydiving Center",
+        "Phone Number": "(770) 684-3483",
+        "Website": "https://www.skydivingnearatlanta.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 11:00 PM",
+            "Tuesday: 8:00 AM - 11:00 PM",
+            "Wednesday: 8:00 AM - 11:00 PM",
+            "Thursday: 8:00 AM - 11:00 PM",
+            "Friday: 8:00 AM - 11:00 PM",
+            "Saturday: 8:00 AM - 11:00 PM",
+            "Sunday: 8:00 AM - 11:00 PM"
+        ],
+        "Latitude": 34.017164,
+        "Longitude": -85.14858699999999
+    },
+    {
+        "Name": "Skydive the Farm",
+        "Phone Number": "(770) 614-3483",
+        "Website": "https://www.skydivethefarm.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 34.0171877,
+        "Longitude": -85.1485987
+    },
+    {
+        "Name": "Jump Georgia Skydiving",
+        "Phone Number": "(888) 313-5867",
+        "Website": "https://jumpgeorgia.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 11:00 AM - 6:00 PM",
+            "Saturday: 7:00 AM - 8:00 PM",
+            "Sunday: 7:00 AM - 8:00 PM"
+        ],
+        "Latitude": 32.6500396,
+        "Longitude": -81.5957336
+    },
+    {
+        "Name": "Skydive Fitzgerald",
+        "Phone Number": "(478) 227-9445",
+        "Website": "http://skydivefitzgerald.com/",
+        "Hours of Operation": null,
+        "Latitude": 31.68607149999999,
+        "Longitude": -83.26537160000001
+    },
+    {
+        "Name": "Skydive Monroe",
+        "Phone Number": "(770) 207-1122",
+        "Website": "https://skydivemonroe.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 33.7833443,
+        "Longitude": -83.6937516
+    },
+    {
+        "Name": "DZONE Skydiving - Boise",
+        "Phone Number": "(208) 455-0000",
+        "Website": "https://dzoneskydiving.com/idaho-boise/?utm_source=google&utm_medium=organic&utm_campaign=googlemybusiness",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 7:00 PM",
+            "Tuesday: 8:00 AM - 7:00 PM",
+            "Wednesday: 8:00 AM - 7:00 PM",
+            "Thursday: 8:00 AM - 7:00 PM",
+            "Friday: 8:00 AM - 7:00 PM",
+            "Saturday: 8:00 AM - 7:00 PM",
+            "Sunday: 8:00 AM - 7:00 PM"
+        ],
+        "Latitude": 43.72959890000001,
+        "Longitude": -116.516304
+    },
+    {
+        "Name": "Sky Down Skydiving",
+        "Phone Number": "(208) 455-2359",
+        "Website": "http://skydownskydiving.com/",
+        "Hours of Operation": null,
+        "Latitude": 43.6387271,
+        "Longitude": -116.6381043
+    },
+    {
+        "Name": "Twin Falls BASE",
+        "Phone Number": "(208) 423-8080",
+        "Website": "http://www.twinfallsbase.com/",
+        "Hours of Operation": [
+            "Monday: 7:00 AM - 7:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 7:00 AM - 7:00 PM",
+            "Friday: 7:00 AM - 7:00 PM",
+            "Saturday: 7:00 AM - 7:00 PM",
+            "Sunday: 7:00 AM - 7:00 PM"
+        ],
+        "Latitude": 42.5626743,
+        "Longitude": -114.4614092
+    },
+    {
+        "Name": "Snake River Skydiving",
+        "Phone Number": null,
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 43.7287733,
+        "Longitude": -116.5229091
+    },
+    {
+        "Name": "Gateway Skydiving Center - Skydiving in St. Louis",
+        "Phone Number": "(314) 669-5867",
+        "Website": "https://gatewayskydivingcenter.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 9:00 PM",
+            "Tuesday: 8:00 AM - 9:00 PM",
+            "Wednesday: 8:00 AM - 9:00 PM",
+            "Thursday: 8:00 AM - 9:00 PM",
+            "Friday: 8:00 AM - 9:00 PM",
+            "Saturday: 8:00 AM - 9:00 PM",
+            "Sunday: 8:00 AM - 9:00 PM"
+        ],
+        "Latitude": 38.8348222,
+        "Longitude": -89.3733838
+    },
+    {
+        "Name": "Chicagoland Skydiving Center",
+        "Phone Number": "(815) 561-3663",
+        "Website": "https://www.skydivecsc.com/",
+        "Hours of Operation": [
+            "Monday: 11:00 AM - 2:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 11:00 AM - 2:00 PM",
+            "Thursday: Closed",
+            "Friday: 11:00 AM - 2:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ],
+        "Latitude": 41.8920785,
+        "Longitude": -89.0716912
+    },
+    {
+        "Name": "Skydive Chicago",
+        "Phone Number": "(815) 433-0000",
+        "Website": "https://skydivechicago.com/",
+        "Hours of Operation": [
+            "Monday: 11:00 AM - 7:00 PM",
+            "Tuesday: 11:00 AM - 7:00 PM",
+            "Wednesday: Closed",
+            "Thursday: 11:00 AM - 7:00 PM",
+            "Friday: 9:00 AM - 7:00 PM",
+            "Saturday: 9:00 AM - 7:00 PM",
+            "Sunday: 9:00 AM - 7:00 PM"
+        ],
+        "Latitude": 41.4001878,
+        "Longitude": -88.7906148
+    },
+    {
+        "Name": "Illinois Valley Parachute Club",
+        "Phone Number": "(309) 270-5610",
+        "Website": "https://ivpc.club/",
+        "Hours of Operation": null,
+        "Latitude": 40.16475499999999,
+        "Longitude": -89.33762449999999
+    },
+    {
+        "Name": "CU Skydiving",
+        "Phone Number": "(217) 800-2809",
+        "Website": "https://www.cuskydiving.com/",
+        "Hours of Operation": null,
+        "Latitude": 40.2414904,
+        "Longitude": -88.08536579999999
+    },
+    {
+        "Name": "Mid-America Sport Parachute",
+        "Phone Number": "(217) 824-5867",
+        "Website": "http://www.skydivetaylorville.org/",
+        "Hours of Operation": null,
+        "Latitude": 39.5348353,
+        "Longitude": -89.32569380000001
+    },
+    {
+        "Name": "SEMO Skydiving",
+        "Phone Number": "(573) 931-9031",
+        "Website": "http://www.semoskydiving.com/",
+        "Hours of Operation": null,
+        "Latitude": 37.0605571,
+        "Longitude": -89.2256493
+    },
+    {
+        "Name": "Quad City Skydiving Center Inc",
+        "Phone Number": "(309) 269-7535",
+        "Website": "https://www.facebook.com/qcskydiving/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: 3:00 - 9:00 PM",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 9:00 PM",
+            "Sunday: 9:00 AM - 9:00 PM"
+        ],
+        "Latitude": 41.4407434,
+        "Longitude": -90.1118831
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Chicago Rosemont",
+        "Phone Number": "(779) 368-4359",
+        "Website": "https://www.iflyworld.com/chicago-rosemont/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: 12:00 - 7:00 PM",
+            "Wednesday: 12:00 - 7:00 PM",
+            "Thursday: 12:00 - 7:00 PM",
+            "Friday: 12:00 - 7:00 PM",
+            "Saturday: 9:00 AM - 6:00 PM",
+            "Sunday: 10:00 AM - 6:00 PM"
+        ],
+        "Latitude": 41.979215,
+        "Longitude": -87.86859299999999
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Chicago Lincoln Park",
+        "Phone Number": "(779) 368-4359",
+        "Website": "https://www.iflyworld.com/lincoln-park/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 12:00 - 7:00 PM",
+            "Thursday: 11:00 AM - 6:00 PM",
+            "Friday: 11:00 AM - 6:00 PM",
+            "Saturday: 11:00 AM - 6:00 PM",
+            "Sunday: 11:00 AM - 6:00 PM"
+        ],
+        "Latitude": 41.905359,
+        "Longitude": -87.648417
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Chicago Naperville",
+        "Phone Number": "(779) 456-4359",
+        "Website": "https://www.iflyworld.com/chicago-naperville/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 11:00 AM - 6:00 PM",
+            "Thursday: 11:00 AM - 6:00 PM",
+            "Friday: 11:00 AM - 6:00 PM",
+            "Saturday: 10:00 AM - 5:00 PM",
+            "Sunday: 10:00 AM - 5:00 PM"
+        ],
+        "Latitude": 41.803218,
+        "Longitude": -88.12584
+    },
+    {
+        "Name": "Skydive Carmi",
+        "Phone Number": "(618) 382-8921",
+        "Website": "https://www.facebook.com/SkydiveCarmi/",
+        "Hours of Operation": null,
+        "Latitude": 38.09466159999999,
+        "Longitude": -88.1205798
+    },
+    {
+        "Name": "Skydive Indianapolis",
+        "Phone Number": "(765) 605-6071",
+        "Website": "http://www.skydiveindianapolis.com/",
+        "Hours of Operation": [
+            "Monday: 12:00 - 2:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 12:00 - 2:00 PM",
+            "Friday: 12:00 - 2:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ],
+        "Latitude": 40.2754859,
+        "Longitude": -86.5627288
+    },
+    {
+        "Name": "Skydive Windy City Chicago",
+        "Phone Number": "(219) 210-3338",
+        "Website": "https://skydivewindycitychicago.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 5:00 PM",
+            "Tuesday: 10:00 AM - 5:00 PM",
+            "Wednesday: 10:00 AM - 5:00 PM",
+            "Thursday: 10:00 AM - 5:00 PM",
+            "Friday: 10:00 PM - 12:00 AM",
+            "Saturday: 12:00 AM - 6:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 41.70515199999999,
+        "Longitude": -86.8232219
+    },
+    {
+        "Name": "Air Indiana Skydiving",
+        "Phone Number": "(260) 336-3841",
+        "Website": "http://www.airindianaskydiving.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 5:00 - 9:00 PM",
+            "Saturday: 9:00 AM - 7:00 PM",
+            "Sunday: 9:00 AM - 7:00 PM"
+        ],
+        "Latitude": 41.6357131,
+        "Longitude": -85.08133629999999
+    },
+    {
+        "Name": "Skydive Iowa",
+        "Phone Number": "(515) 598-6329",
+        "Website": "http://www.skydiveia.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 41.7459983,
+        "Longitude": -92.4117507
+    },
+    {
+        "Name": "Jump Omaha Skydiving",
+        "Phone Number": "(402) 237-7325",
+        "Website": "http://www.jumpomaha.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 7:00 AM - 9:00 PM",
+            "Saturday: 7:00 AM - 10:00 PM",
+            "Sunday: 7:00 AM - 8:00 PM"
+        ],
+        "Latitude": 41.54101929999999,
+        "Longitude": -95.8873792
+    },
+    {
+        "Name": "Des Moines Skydivers",
+        "Phone Number": "(515) 243-1711",
+        "Website": "https://www.dmskydivers.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 41.2965615,
+        "Longitude": -93.1101365
+    },
+    {
+        "Name": "Air Capital Drop Zone",
+        "Phone Number": "(316) 776-1700",
+        "Website": "http://www.aircapitaldropzone.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 8:00 PM",
+            "Tuesday: 9:00 AM - 8:00 PM",
+            "Wednesday: 9:00 AM - 8:00 PM",
+            "Thursday: 9:00 AM - 8:00 PM",
+            "Friday: 9:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 9:00 AM - 8:00 PM"
+        ],
+        "Latitude": 37.5639609,
+        "Longitude": -97.1711746
+    },
+    {
+        "Name": "Skydive Kansas State",
+        "Phone Number": "(785) 268-7235",
+        "Website": "https://skydivekstate.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 38.906277,
+        "Longitude": -97.23301400000001
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Kansas City",
+        "Phone Number": "(913) 305-4359",
+        "Website": "https://www.iflyworld.com/kansas-city/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 12:00 - 7:00 PM",
+            "Tuesday: 12:00 - 7:00 PM",
+            "Wednesday: 12:00 - 7:00 PM",
+            "Thursday: 12:00 - 7:00 PM",
+            "Friday: 11:00 AM - 6:00 PM",
+            "Saturday: 10:00 AM - 7:00 PM",
+            "Sunday: 11:00 AM - 6:00 PM"
+        ],
+        "Latitude": 38.93024,
+        "Longitude": -94.666288
+    },
+    {
+        "Name": "Falcon Skydiving",
+        "Phone Number": "(913) 205-1224",
+        "Website": "http://www.falconexhibitionskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 1:00 - 7:30 PM",
+            "Tuesday: 1:00 - 7:30 PM",
+            "Wednesday: Closed",
+            "Thursday: 1:00 - 7:30 PM",
+            "Friday: 9:00 AM - 7:30 PM",
+            "Saturday: 9:00 AM - 7:30 PM",
+            "Sunday: 9:00 AM - 7:30 PM"
+        ],
+        "Latitude": 39.2310064,
+        "Longitude": -94.8007006
+    },
+    {
+        "Name": "Skydive Kansas City",
+        "Phone Number": "(816) 524-5867",
+        "Website": "https://skydivekc.com/",
+        "Hours of Operation": null,
+        "Latitude": 38.2901649,
+        "Longitude": -94.3418884
+    },
+    {
+        "Name": "Skydive Kentucky LLC",
+        "Phone Number": "(270) 723-3587",
+        "Website": "http://skydivekentucky.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 10:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 37.68957,
+        "Longitude": -85.924396
+    },
+    {
+        "Name": "Skydive Louisiana",
+        "Phone Number": "(318) 464-5867",
+        "Website": "http://www.skydivelouisiana.net/",
+        "Hours of Operation": [
+            "Monday: 5:30 - 7:00 PM",
+            "Tuesday: 5:30 - 7:00 PM",
+            "Wednesday: 5:30 - 7:00 PM",
+            "Thursday: 5:30 - 7:00 PM",
+            "Friday: 5:30 - 7:00 PM",
+            "Saturday: 8:30 AM - 7:00 PM",
+            "Sunday: 12:30 - 7:00 PM"
+        ],
+        "Latitude": 32.8407273,
+        "Longitude": -93.8356204
+    },
+    {
+        "Name": "Cloud Chasers Skydiving",
+        "Phone Number": "(985) 415-0289",
+        "Website": "https://www.cloudchasers-skydiving.com/",
+        "Hours of Operation": null,
+        "Latitude": 30.3448199,
+        "Longitude": -89.82316259999999
+    },
+    {
+        "Name": "The Skydive Experience",
+        "Phone Number": null,
+        "Website": "http://www.theskydiveexperience.com/",
+        "Hours of Operation": null,
+        "Latitude": 32.8626625,
+        "Longitude": -94.0090658
+    },
+    {
+        "Name": "Skydive Coastal Maine",
+        "Phone Number": "(207) 991-5800",
+        "Website": "http://skydivecoastalmaine.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 7:00 PM",
+            "Tuesday: 9:00 AM - 7:00 PM",
+            "Wednesday: 9:00 AM - 7:00 PM",
+            "Thursday: 9:00 AM - 7:00 PM",
+            "Friday: 9:00 AM - 7:00 PM",
+            "Saturday: 9:00 AM - 7:00 PM",
+            "Sunday: 9:00 AM - 7:00 PM"
+        ],
+        "Latitude": 43.4643838,
+        "Longitude": -70.47391689999999
+    },
+    {
+        "Name": "Skydive New England",
+        "Phone Number": "(207) 339-1520",
+        "Website": "https://www.skydivenewengland.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 7:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 7:00 PM",
+            "Friday: 9:00 AM - 7:00 PM",
+            "Saturday: 8:00 AM - 7:00 PM",
+            "Sunday: 8:00 AM - 7:00 PM"
+        ],
+        "Latitude": 43.3717536,
+        "Longitude": -70.9245605
+    },
+    {
+        "Name": "Vacationland Skydiving",
+        "Phone Number": "(207) 487-5638",
+        "Website": "https://vacationlandskydiving.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 8:00 AM - 4:00 PM",
+            "Friday: 8:00 AM - 5:00 PM",
+            "Saturday: 8:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 44.535022,
+        "Longitude": -69.6800078
+    },
+    {
+        "Name": "Jump and Raft",
+        "Phone Number": "(207) 723-3200",
+        "Website": null,
+        "Hours of Operation": [
+            "Monday: 7:00 AM - 7:00 PM",
+            "Tuesday: 7:00 AM - 7:00 PM",
+            "Wednesday: 7:00 AM - 7:00 PM",
+            "Thursday: 7:00 AM - 7:00 PM",
+            "Friday: 7:00 AM - 7:00 PM",
+            "Saturday: 7:00 AM - 7:00 PM",
+            "Sunday: 7:00 AM - 7:00 PM"
+        ],
+        "Latitude": 45.6454093,
+        "Longitude": -68.6461276
+    },
+    {
+        "Name": "The Red Baron Adventure",
+        "Phone Number": null,
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 43.989244,
+        "Longitude": -70.9489641
+    },
+    {
+        "Name": "Skydive Lebanon Airport-ME64",
+        "Phone Number": "(207) 339-1520",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 43.3701812,
+        "Longitude": -70.9240074
+    },
+    {
+        "Name": "Skydive OC",
+        "Phone Number": "(410) 213-1319",
+        "Website": "https://www.skydiveoc.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 38.309676,
+        "Longitude": -75.120317
+    },
+    {
+        "Name": "Skydive Baltimore",
+        "Phone Number": "(410) 734-4888",
+        "Website": "http://www.skydivebaltimore.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 39.5704285,
+        "Longitude": -76.2062948
+    },
+    {
+        "Name": "iFLY Indoor Skydiving- Montgomery",
+        "Phone Number": "(202) 883-4359",
+        "Website": "https://www.iflyworld.com/montgomery?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 11:30 AM - 6:30 PM",
+            "Tuesday: 11:30 AM - 6:30 PM",
+            "Wednesday: 11:30 AM - 5:00 PM",
+            "Thursday: 11:00 AM - 6:00 PM",
+            "Friday: 11:00 AM - 8:30 PM",
+            "Saturday: 10:00 AM - 8:00 PM",
+            "Sunday: 10:00 AM - 7:00 PM"
+        ],
+        "Latitude": 39.11799399999999,
+        "Longitude": -77.194367
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Baltimore",
+        "Phone Number": "(667) 888-4359",
+        "Website": "https://www.iflyworld.com/baltimore?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 12:30 - 7:30 PM",
+            "Thursday: 12:30 - 7:30 PM",
+            "Friday: 1:00 - 8:00 PM",
+            "Saturday: 10:00 AM - 7:00 PM",
+            "Sunday: 10:00 AM - 6:00 PM"
+        ],
+        "Latitude": 39.36928899999999,
+        "Longitude": -76.464126
+    },
+    {
+        "Name": "Skydive Chesapeake",
+        "Phone Number": "(201) 477-0525",
+        "Website": "http://skydivechesapeake.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 10:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 38.9682598,
+        "Longitude": -75.8705199
+    },
+    {
+        "Name": "Skydive Pepperell",
+        "Phone Number": "(978) 433-9222",
+        "Website": "http://www.skyjump.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 6:00 PM",
+            "Tuesday: 9:00 AM - 6:00 PM",
+            "Wednesday: 9:00 AM - 6:00 PM",
+            "Thursday: 9:00 AM - 6:00 PM",
+            "Friday: 9:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 42.6942845,
+        "Longitude": -71.5533653
+    },
+    {
+        "Name": "Skydive the Mills",
+        "Phone Number": "(508) 681-5286",
+        "Website": "http://www.skydivethemills.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 6:00 PM",
+            "Tuesday: 10:00 AM - 6:00 PM",
+            "Wednesday: 10:00 AM - 6:00 PM",
+            "Thursday: 10:00 AM - 6:00 PM",
+            "Friday: 10:00 AM - 6:00 PM",
+            "Saturday: 10:00 AM - 6:00 PM",
+            "Sunday: 10:00 AM - 6:00 PM"
+        ],
+        "Latitude": 41.685246,
+        "Longitude": -70.403007
+    },
+    {
+        "Name": "Jumptown",
+        "Phone Number": "(978) 544-5321",
+        "Website": "https://www.jumptown.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 6:00 PM",
+            "Tuesday: 10:00 AM - 6:00 PM",
+            "Wednesday: 10:00 AM - 6:00 PM",
+            "Thursday: 10:00 AM - 6:00 PM",
+            "Friday: 10:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 42.5661797,
+        "Longitude": -72.28578639999999
+    },
+    {
+        "Name": "Freedom Wind Tunnel",
+        "Phone Number": null,
+        "Website": "https://freedomwind.us/",
+        "Hours of Operation": null,
+        "Latitude": 42.09308379999999,
+        "Longitude": -71.26459779999999
+    },
+    {
+        "Name": "Boston Skydive Center",
+        "Phone Number": "(508) 759-3483",
+        "Website": "https://www.bostonskydivecenter.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 6:00 PM",
+            "Tuesday: 9:00 AM - 1:00 PM",
+            "Wednesday: 8:00 AM - 6:00 PM",
+            "Thursday: 9:00 AM - 6:00 PM",
+            "Friday: 9:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 7:00 PM",
+            "Sunday: 8:00 AM - 7:00 PM"
+        ],
+        "Latitude": 41.92477029999999,
+        "Longitude": -71.4850235
+    },
+    {
+        "Name": "Boston Skydive Company",
+        "Phone Number": "(774) 250-5867",
+        "Website": "http://bostonskydive.com/",
+        "Hours of Operation": null,
+        "Latitude": 42.02358619999999,
+        "Longitude": -70.83908079999999
+    },
+    {
+        "Name": "Parachute Shop",
+        "Phone Number": "(978) 433-8550",
+        "Website": null,
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 6:00 PM",
+            "Tuesday: 9:00 AM - 6:00 PM",
+            "Wednesday: 9:00 AM - 6:00 PM",
+            "Thursday: 9:00 AM - 6:00 PM",
+            "Friday: 9:00 AM - 6:00 PM",
+            "Saturday: 9:00 AM - 6:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 42.6943587,
+        "Longitude": -71.5534258
+    },
+    {
+        "Name": "Skydive Danielson",
+        "Phone Number": "(860) 774-5867",
+        "Website": "http://www.skydivedanielson.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 6:00 PM",
+            "Tuesday: 9:00 AM - 6:00 PM",
+            "Wednesday: 9:00 AM - 6:00 PM",
+            "Thursday: 9:00 AM - 6:00 PM",
+            "Friday: 9:00 AM - 6:00 PM",
+            "Saturday: 9:00 AM - 6:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 41.822857,
+        "Longitude": -71.899822
+    },
+    {
+        "Name": "SkyVenture New Hampshire",
+        "Phone Number": "(603) 897-0002",
+        "Website": "https://skyventurenh.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 2:00 - 8:00 PM",
+            "Thursday: 2:00 - 8:00 PM",
+            "Friday: 2:00 - 8:00 PM",
+            "Saturday: 11:00 AM - 6:00 PM",
+            "Sunday: 11:00 AM - 6:00 PM"
+        ],
+        "Latitude": 42.71402489999999,
+        "Longitude": -71.4410339
+    },
+    {
+        "Name": "Skydive Tecumseh",
+        "Phone Number": "(517) 423-7720",
+        "Website": "https://www.skydivetecumseh.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 11:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 11:00 AM - 5:00 PM",
+            "Friday: 10:00 AM - 5:00 PM",
+            "Saturday: 8:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 42.174564,
+        "Longitude": -84.26202169999999
+    },
+    {
+        "Name": "Skydive Hastings 3.0 Inc.",
+        "Phone Number": "(616) 350-8020",
+        "Website": "http://www.skydivegrandhaven.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 9:00 PM",
+            "Tuesday: 9:00 AM - 9:00 PM",
+            "Wednesday: 9:00 AM - 9:00 PM",
+            "Thursday: 9:00 AM - 9:00 PM",
+            "Friday: 9:00 AM - 9:00 PM",
+            "Saturday: 9:00 AM - 9:00 PM",
+            "Sunday: 9:00 AM - 9:00 PM"
+        ],
+        "Latitude": 42.66755079999999,
+        "Longitude": -85.3477214
+    },
+    {
+        "Name": "Skydive Charlevoix",
+        "Phone Number": "(231) 330-3483",
+        "Website": "http://www.skydivecharlevoix.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 9:00 PM",
+            "Tuesday: 8:00 AM - 9:00 PM",
+            "Wednesday: 8:00 AM - 9:00 PM",
+            "Thursday: 8:00 AM - 9:00 PM",
+            "Friday: 8:00 AM - 9:00 PM",
+            "Saturday: 8:00 AM - 9:00 PM",
+            "Sunday: 8:00 AM - 9:00 PM"
+        ],
+        "Latitude": 45.3024005,
+        "Longitude": -85.2671982
+    },
+    {
+        "Name": "Skydive Holland",
+        "Phone Number": "(616) 350-8020",
+        "Website": "http://www.skydivegrandhaven.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 9:00 PM",
+            "Tuesday: 9:00 AM - 9:00 PM",
+            "Wednesday: 9:00 AM - 9:00 PM",
+            "Thursday: 9:00 AM - 9:00 PM",
+            "Friday: 9:00 AM - 9:00 PM",
+            "Saturday: 9:00 AM - 9:00 PM",
+            "Sunday: 9:00 AM - 9:00 PM"
+        ],
+        "Latitude": 43.03568859999999,
+        "Longitude": -86.1991259
+    },
+    {
+        "Name": "Skydive TC",
+        "Phone Number": "(231) 649-4929",
+        "Website": "https://skydivetc.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: 10:00 AM - 6:00 PM",
+            "Wednesday: 10:00 AM - 6:00 PM",
+            "Thursday: Closed",
+            "Friday: 10:00 AM - 6:00 PM",
+            "Saturday: 9:00 AM - 6:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 44.7468028,
+        "Longitude": -85.58329119999999
+    },
+    {
+        "Name": "Skydive Wayland",
+        "Phone Number": "(616) 350-8020",
+        "Website": "http://www.skydivegrandhaven.com/",
+        "Hours of Operation": null,
+        "Latitude": 42.6913999,
+        "Longitude": -85.6481395
+    },
+    {
+        "Name": "Capital City Skydiving",
+        "Phone Number": "(517) 219-4709",
+        "Website": "http://www.capitalcityskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 6:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 8:00 AM - 6:00 PM",
+            "Friday: 8:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 42.714302,
+        "Longitude": -84.057373
+    },
+    {
+        "Name": "Midwest Freefall",
+        "Phone Number": "(586) 752-5867",
+        "Website": "http://www.midwestfreefall.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 2:00 - 6:00 PM",
+            "Thursday: 2:00 - 6:00 PM",
+            "Friday: 2:00 - 6:00 PM",
+            "Saturday: 9:00 AM - 6:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 42.75960859999999,
+        "Longitude": -82.9413939
+    },
+    {
+        "Name": "Wild Wind Skydivers",
+        "Phone Number": "(989) 430-0911",
+        "Website": "http://www.wildwindskydivers.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 10:00 PM",
+            "Sunday: 8:00 AM - 10:00 PM"
+        ],
+        "Latitude": 43.4296619,
+        "Longitude": -83.8609063
+    },
+    {
+        "Name": "Motor City Skydiving",
+        "Phone Number": "(517) 347-3251",
+        "Website": "http://motorcityskydiving.com/",
+        "Hours of Operation": null,
+        "Latitude": 42.71437199999999,
+        "Longitude": -84.05780109999999
+    },
+    {
+        "Name": "Pegasus Parachuting Services Inc",
+        "Phone Number": "(248) 375-5797",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 42.6559362,
+        "Longitude": -83.1720416
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Detroit",
+        "Phone Number": "(313) 730-4359",
+        "Website": "http://www.iflydetroit.com/",
+        "Hours of Operation": [
+            "Monday: 12:00 - 8:30 PM",
+            "Tuesday: 12:00 - 8:30 PM",
+            "Wednesday: 12:00 - 8:30 PM",
+            "Thursday: 12:00 - 8:30 PM",
+            "Friday: 10:00 AM - 8:30 PM",
+            "Saturday: 10:00 AM - 8:30 PM",
+            "Sunday: 10:00 AM - 6:00 PM"
+        ],
+        "Latitude": 42.4866927,
+        "Longitude": -83.47992529999999
+    },
+    {
+        "Name": "Skydive Windy City Chicago",
+        "Phone Number": "(219) 210-3338",
+        "Website": "https://skydivewindycitychicago.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 5:00 PM",
+            "Tuesday: 10:00 AM - 5:00 PM",
+            "Wednesday: 10:00 AM - 5:00 PM",
+            "Thursday: 10:00 AM - 5:00 PM",
+            "Friday: 10:00 PM - 12:00 AM",
+            "Saturday: 12:00 AM - 6:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 41.70515199999999,
+        "Longitude": -86.8232219
+    },
+    {
+        "Name": "Skydive Allegan",
+        "Phone Number": "(269) 998-7747",
+        "Website": "https://skydiveallegan.info/book-your-jump/",
+        "Hours of Operation": null,
+        "Latitude": 42.53409200000001,
+        "Longitude": -85.82867590000001
+    },
+    {
+        "Name": "Skydive Twin Cities - Join us at our Baldwin, WI location!",
+        "Phone Number": "(763) 333-6592",
+        "Website": "http://www.skydivetwincities.com/",
+        "Hours of Operation": null,
+        "Latitude": 44.95292349999999,
+        "Longitude": -94.060148
+    },
+    {
+        "Name": "Skydive Northstar LLC",
+        "Phone Number": "(507) 291-5867",
+        "Website": "https://www.skydivenorthstar.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 7:00 AM - 9:00 PM",
+            "Sunday: 7:00 AM - 9:00 PM"
+        ],
+        "Latitude": 44.0732727,
+        "Longitude": -93.5494918
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Minneapolis",
+        "Phone Number": "(612) 444-4359",
+        "Website": "https://www.iflyworld.com/minneapolis/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 12:00 - 7:00 PM",
+            "Thursday: 11:00 AM - 7:00 PM",
+            "Friday: 11:00 AM - 6:00 PM",
+            "Saturday: 10:00 AM - 5:00 PM",
+            "Sunday: 10:00 AM - 5:00 PM"
+        ],
+        "Latitude": 44.969908,
+        "Longitude": -93.44110400000001
+    },
+    {
+        "Name": "Skydive Adventures",
+        "Phone Number": "(605) 274-9970",
+        "Website": "http://www.skydiveadventures.net/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 4:00 PM",
+            "Sunday: 11:00 AM - 4:00 PM"
+        ],
+        "Latitude": 43.6226382,
+        "Longitude": -96.2142437
+    },
+    {
+        "Name": "Skydive Duluth",
+        "Phone Number": "(218) 390-1800",
+        "Website": "http://skydiveduluth.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 9:00 PM",
+            "Tuesday: 9:00 AM - 9:00 PM",
+            "Wednesday: 9:00 AM - 9:00 PM",
+            "Thursday: 9:00 AM - 9:00 PM",
+            "Friday: 9:00 AM - 9:00 PM",
+            "Saturday: 8:00 AM - 9:00 PM",
+            "Sunday: 8:00 AM - 9:00 PM"
+        ],
+        "Latitude": 46.6825,
+        "Longitude": -92.09646099999999
+    },
+    {
+        "Name": "SDI Paragliding Academy",
+        "Phone Number": "(612) 787-6440",
+        "Website": "http://sdiparagliding.com/",
+        "Hours of Operation": null,
+        "Latitude": 44.965836,
+        "Longitude": -94.7342515
+    },
+    {
+        "Name": "Skydive Twin Cities LLC",
+        "Phone Number": "(715) 684-3416",
+        "Website": "http://www.skydivetwincities.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 7:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 10:00 AM - 7:00 PM",
+            "Friday: 10:00 AM - 7:00 PM",
+            "Saturday: 8:00 AM - 7:00 PM",
+            "Sunday: 8:00 AM - 7:00 PM"
+        ],
+        "Latitude": 44.964544,
+        "Longitude": -92.39057400000002
+    },
+    {
+        "Name": "Cloud Chasers Skydiving",
+        "Phone Number": "(985) 415-0289",
+        "Website": "https://www.cloudchasers-skydiving.com/",
+        "Hours of Operation": null,
+        "Latitude": 30.3448199,
+        "Longitude": -89.82316259999999
+    },
+    {
+        "Name": "Skydive The Gulf",
+        "Phone Number": "(850) 543-8756",
+        "Website": "https://www.skydivethegulf.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 6:00 PM",
+            "Tuesday: 8:00 AM - 6:00 PM",
+            "Wednesday: 8:00 AM - 6:00 PM",
+            "Thursday: 8:00 AM - 6:00 PM",
+            "Friday: 8:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 AM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 30.4290019,
+        "Longitude": -87.53909449999999
+    },
+    {
+        "Name": "West Tennessee Skydiving",
+        "Phone Number": "(901) 759-3483",
+        "Website": "http://skydivekingair.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 35.2187172,
+        "Longitude": -89.1891893
+    },
+    {
+        "Name": "SKY HIGH BUNGEE",
+        "Phone Number": "(251) 767-2740",
+        "Website": null,
+        "Hours of Operation": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ],
+        "Latitude": 30.3922497,
+        "Longitude": -88.98953759999999
+    },
+    {
+        "Name": "Music City Skydiving",
+        "Phone Number": "(931) 299-7137",
+        "Website": "http://www.musiccityskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 36.1150012,
+        "Longitude": -87.74148339999999
+    },
+    {
+        "Name": "Horak",
+        "Phone Number": "(251) 986-5248",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 30.468059,
+        "Longitude": -87.5468479
+    },
+    {
+        "Name": "Skydive Tennessee",
+        "Phone Number": "(931) 455-4574",
+        "Website": "http://skydivetullahoma.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 35.3800342,
+        "Longitude": -86.2392514
+    },
+    {
+        "Name": "Skydive Alabama",
+        "Phone Number": "(256) 736-5553",
+        "Website": "https://www.skydivealabama.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 8:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 AM - 8:00 PM",
+            "Thursday: 10:00 AM - 8:00 PM",
+            "Friday: 10:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 34.2671811,
+        "Longitude": -86.8605575
+    },
+    {
+        "Name": "SEMO Skydiving",
+        "Phone Number": "(573) 931-9031",
+        "Website": "http://www.semoskydiving.com/",
+        "Hours of Operation": null,
+        "Latitude": 37.0605571,
+        "Longitude": -89.2256493
+    },
+    {
+        "Name": "Skydive Louisiana",
+        "Phone Number": "(318) 464-5867",
+        "Website": "http://www.skydivelouisiana.net/",
+        "Hours of Operation": [
+            "Monday: 5:30 - 7:00 PM",
+            "Tuesday: 5:30 - 7:00 PM",
+            "Wednesday: 5:30 - 7:00 PM",
+            "Thursday: 5:30 - 7:00 PM",
+            "Friday: 5:30 - 7:00 PM",
+            "Saturday: 8:30 AM - 7:00 PM",
+            "Sunday: 12:30 - 7:00 PM"
+        ],
+        "Latitude": 32.8407273,
+        "Longitude": -93.8356204
+    },
+    {
+        "Name": "Skydive Georgia",
+        "Phone Number": "(770) 684-3483",
+        "Website": "https://www.skydivegeorgia.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 34.01726009999999,
+        "Longitude": -85.1485744
+    },
+    {
+        "Name": "Skydive Kentucky LLC",
+        "Phone Number": "(270) 723-3587",
+        "Website": "http://skydivekentucky.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 10:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 37.68957,
+        "Longitude": -85.924396
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Atlanta",
+        "Phone Number": "(678) 803-4359",
+        "Website": "http://www.iflyworld.com/atlanta?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 11:00 AM - 7:30 PM",
+            "Tuesday: 11:00 AM - 7:30 PM",
+            "Wednesday: 11:00 AM - 7:30 PM",
+            "Thursday: 11:00 AM - 7:30 PM",
+            "Friday: 12:00 - 8:00 PM",
+            "Saturday: 9:00 AM - 9:00 PM",
+            "Sunday: 10:00 AM - 7:00 PM"
+        ],
+        "Latitude": 33.884723,
+        "Longitude": -84.471283
+    },
+    {
+        "Name": "Sky Zone Trampoline Park",
+        "Phone Number": "(228) 207-8969",
+        "Website": "https://www.skyzone.com/biloxi",
+        "Hours of Operation": [
+            "Monday: 3:00 - 8:00 PM",
+            "Tuesday: 3:00 - 8:00 PM",
+            "Wednesday: 12:00 - 8:00 PM",
+            "Thursday: 3:00 - 8:00 PM",
+            "Friday: 10:00 AM - 10:00 PM",
+            "Saturday: 8:00 AM - 10:00 PM",
+            "Sunday: 10:00 AM - 8:00 PM"
+        ],
+        "Latitude": 30.3919044,
+        "Longitude": -88.99014160000002
+    },
+    {
+        "Name": "Gold Coast Skydivers",
+        "Phone Number": "(800) 796-7117",
+        "Website": "http://www.goldcoastskydivers.com/",
+        "Hours of Operation": null,
+        "Latitude": 31.0178966,
+        "Longitude": -89.4832119
+    },
+    {
+        "Name": "Skydive St. Louis",
+        "Phone Number": "(636) 524-5244",
+        "Website": "https://skydivingstl.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 38.2314179,
+        "Longitude": -91.1644501
+    },
+    {
+        "Name": "Ozarks Skydive Center",
+        "Phone Number": "(417) 882-5867",
+        "Website": "https://www.ozskydive.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 37.2315814,
+        "Longitude": -93.92900030000001
+    },
+    {
+        "Name": "Falcon Skydiving",
+        "Phone Number": "(913) 205-1224",
+        "Website": "http://www.falconexhibitionskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 1:00 - 7:30 PM",
+            "Tuesday: 1:00 - 7:30 PM",
+            "Wednesday: Closed",
+            "Thursday: 1:00 - 7:30 PM",
+            "Friday: 9:00 AM - 7:30 PM",
+            "Saturday: 9:00 AM - 7:30 PM",
+            "Sunday: 9:00 AM - 7:30 PM"
+        ],
+        "Latitude": 39.2310064,
+        "Longitude": -94.8007006
+    },
+    {
+        "Name": "Flight Providers 417-SKYDIVE",
+        "Phone Number": "(417) 759-3483",
+        "Website": "https://www.flightproviders.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 37.6002168,
+        "Longitude": -93.3510218
+    },
+    {
+        "Name": "Sky high treats",
+        "Phone Number": "(816) 203-5682",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 38.848097,
+        "Longitude": -94.381451
+    },
+    {
+        "Name": "Skydive Kansas City",
+        "Phone Number": "(816) 524-5867",
+        "Website": "https://skydivekc.com/",
+        "Hours of Operation": null,
+        "Latitude": 38.2901649,
+        "Longitude": -94.3418884
+    },
+    {
+        "Name": "The Dam Skydivers",
+        "Phone Number": null,
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 37.659941,
+        "Longitude": -93.81682049999999
+    },
+    {
+        "Name": "GravityParamotors.com & GliderSports.com",
+        "Phone Number": "(855) 435-9669",
+        "Website": "https://glidersports.com/",
+        "Hours of Operation": null,
+        "Latitude": 38.35621249999999,
+        "Longitude": -93.6723411
+    },
+    {
+        "Name": "Meadow Peak Skydiving",
+        "Phone Number": "(406) 858-2330",
+        "Website": "http://www.meadowpeakskydiving.com/",
+        "Hours of Operation": null,
+        "Latitude": 48.0968923,
+        "Longitude": -114.8545232
+    },
+    {
+        "Name": "DZONE Skydiving - Bozeman",
+        "Phone Number": "(406) 586-5867",
+        "Website": "https://dzoneskydiving.com/montana-bozeman/?utm_source=google&utm_medium=organic&utm_campaign=googlemybusiness",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 8:00 AM - 7:00 PM",
+            "Friday: 8:00 AM - 7:00 PM",
+            "Saturday: 8:00 AM - 7:00 PM",
+            "Sunday: 8:00 AM - 7:00 PM"
+        ],
+        "Latitude": 45.8854572,
+        "Longitude": -111.5627989
+    },
+    {
+        "Name": "Skydive Whitefish",
+        "Phone Number": "(866) 680-5867",
+        "Website": "http://www.skydivewhitefish.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 6:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 AM - 6:00 PM",
+            "Thursday: 9:00 AM - 6:00 PM",
+            "Friday: 9:00 AM - 6:00 PM",
+            "Saturday: 10:00 AM - 6:00 PM",
+            "Sunday: 10:00 AM - 6:00 PM"
+        ],
+        "Latitude": 48.410569,
+        "Longitude": -114.3094426
+    },
+    {
+        "Name": "National Smoke Jumper Center",
+        "Phone Number": "(406) 646-7557",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 44.6580624,
+        "Longitude": -111.0978536
+    },
+    {
+        "Name": "Lincoln Sport Parachute Club",
+        "Phone Number": "(402) 326-8470",
+        "Website": "http://skydivelspc.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 40.8708476,
+        "Longitude": -96.11166039999999
+    },
+    {
+        "Name": "Skydive Lincoln & Omaha",
+        "Phone Number": "(308) 240-1881",
+        "Website": null,
+        "Hours of Operation": [
+            "Monday: 7:00 AM - 9:00 PM",
+            "Tuesday: 7:00 AM - 9:00 PM",
+            "Wednesday: 7:00 AM - 9:00 PM",
+            "Thursday: 7:00 AM - 9:00 PM",
+            "Friday: 7:00 AM - 9:00 PM",
+            "Saturday: 7:00 AM - 9:00 PM",
+            "Sunday: 7:00 AM - 9:00 PM"
+        ],
+        "Latitude": 40.6219494,
+        "Longitude": -96.9286861
+    },
+    {
+        "Name": "Lucky Chuck Skydiving",
+        "Phone Number": "(402) 981-8852",
+        "Website": "http://www.skydive402.com/",
+        "Hours of Operation": null,
+        "Latitude": 41.1540909,
+        "Longitude": -95.9415283
+    },
+    {
+        "Name": "Tandem Skydive/Skydive 402",
+        "Phone Number": "(402) 981-8852",
+        "Website": "http://www.skydive402.com/",
+        "Hours of Operation": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ],
+        "Latitude": 41.1540697,
+        "Longitude": -95.94151640000001
+    },
+    {
+        "Name": "Field of Dreams",
+        "Phone Number": "(402) 968-1427",
+        "Website": "https://nebraskaparamotor.com/",
+        "Hours of Operation": null,
+        "Latitude": 41.05735749999999,
+        "Longitude": -96.10669299999999
+    },
+    {
+        "Name": "Jump Omaha Skydiving",
+        "Phone Number": "(402) 237-7325",
+        "Website": "http://www.jumpomaha.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 7:00 AM - 9:00 PM",
+            "Saturday: 7:00 AM - 10:00 PM",
+            "Sunday: 7:00 AM - 8:00 PM"
+        ],
+        "Latitude": 41.54101929999999,
+        "Longitude": -95.8873792
+    },
+    {
+        "Name": "Tandem Skydiving Omaha",
+        "Phone Number": "(531) 500-7478",
+        "Website": null,
+        "Hours of Operation": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ],
+        "Latitude": 40.6234913,
+        "Longitude": -96.92762239999999
+    },
+    {
+        "Name": "Skydive Las Vegas",
+        "Phone Number": "(702) 759-3483",
+        "Website": "http://www.skydivelasvegas.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 35.94923320000001,
+        "Longitude": -114.857887
+    },
+    {
+        "Name": "Sin City Skydiving",
+        "Phone Number": "(702) 300-8508",
+        "Website": "https://www.sincityskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 35.7718935,
+        "Longitude": -115.3299012
+    },
+    {
+        "Name": "GoJump Las Vegas",
+        "Phone Number": "(702) 900-4000",
+        "Website": "https://gojump-america.com/lasvegas",
+        "Hours of Operation": [
+            "Monday: 7:00 AM - 11:00 PM",
+            "Tuesday: 7:00 AM - 11:00 PM",
+            "Wednesday: 7:00 AM - 11:00 PM",
+            "Thursday: 7:00 AM - 11:00 PM",
+            "Friday: 7:00 AM - 11:00 PM",
+            "Saturday: 7:00 AM - 11:00 PM",
+            "Sunday: 7:00 AM - 11:00 PM"
+        ],
+        "Latitude": 35.77213100000001,
+        "Longitude": -115.3299248
+    },
+    {
+        "Name": "Fyrosity® Las Vegas Skydiving | Valley of Fire",
+        "Phone Number": "(702) 720-6250",
+        "Website": "https://www.skydivefyrositylasvegas.com/",
+        "Hours of Operation": [
+            "Monday: 6:30 AM - 7:00 PM",
+            "Tuesday: 6:30 AM - 7:00 PM",
+            "Wednesday: 6:30 AM - 7:00 PM",
+            "Thursday: 6:30 AM - 7:00 PM",
+            "Friday: 6:30 AM - 7:00 PM",
+            "Saturday: 6:30 AM - 7:00 PM",
+            "Sunday: 6:30 AM - 7:00 PM"
+        ],
+        "Latitude": 36.56182719999999,
+        "Longitude": -114.4414956
+    },
+    {
+        "Name": "Fyrosity® | Las Vegas Skydiving | HQ",
+        "Phone Number": "(702) 720-6250",
+        "Website": "https://www.skydivefyrositylasvegas.com/",
+        "Hours of Operation": [
+            "Monday: 6:30 AM - 7:00 PM",
+            "Tuesday: 6:30 AM - 5:00 PM",
+            "Wednesday: 6:30 AM - 7:00 PM",
+            "Thursday: 6:30 AM - 7:00 PM",
+            "Friday: 6:30 AM - 7:00 PM",
+            "Saturday: 6:30 AM - 7:00 PM",
+            "Sunday: 6:30 AM - 7:00 PM"
+        ],
+        "Latitude": 36.1048071,
+        "Longitude": -115.1987781
+    },
+    {
+        "Name": "Skydive Mesquite",
+        "Phone Number": "(877) 246-5867",
+        "Website": "http://www.skydivemesquite.com/",
+        "Hours of Operation": null,
+        "Latitude": 36.8336643,
+        "Longitude": -114.0579499
+    },
+    {
+        "Name": "Skydive Lake Tahoe",
+        "Phone Number": "(775) 790-7602",
+        "Website": "https://www.skydivelaketahoe.com/?y_source=1_MzExOTc2NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+        "Hours of Operation": [
+            "Monday: 7:00 AM - 7:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 7:00 AM - 7:00 PM",
+            "Friday: 7:00 AM - 7:00 PM",
+            "Saturday: 7:00 AM - 7:00 PM",
+            "Sunday: 7:00 AM - 7:00 PM"
+        ],
+        "Latitude": 39.0062024,
+        "Longitude": -119.7560574
+    },
+    {
+        "Name": "Fyrosity® | Las Vegas Skydiving | Jean NV",
+        "Phone Number": "(702) 720-6250",
+        "Website": "https://www.skydivefyrositylasvegas.com/",
+        "Hours of Operation": null,
+        "Latitude": 35.7738258,
+        "Longitude": -115.3301865
+    },
+    {
+        "Name": "Vegas Indoor Skydiving",
+        "Phone Number": "(702) 731-4768",
+        "Website": "https://www.vegasindoorskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:45 AM - 7:00 PM",
+            "Tuesday: 9:45 AM - 7:00 PM",
+            "Wednesday: 9:45 AM - 7:00 PM",
+            "Thursday: 9:45 AM - 7:00 PM",
+            "Friday: 9:45 AM - 7:00 PM",
+            "Saturday: 9:45 AM - 7:00 PM",
+            "Sunday: 9:45 AM - 7:00 PM"
+        ],
+        "Latitude": 36.1326276,
+        "Longitude": -115.1615637
+    },
+    {
+        "Name": "Skydive The Strip | After Sunset",
+        "Phone Number": "(702) 625-0305",
+        "Website": "https://skydivethestrip.com/",
+        "Hours of Operation": [
+            "Monday: 3:00 - 9:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ],
+        "Latitude": 36.121512,
+        "Longitude": -115.1584774
+    },
+    {
+        "Name": "Las Vegas Skydiving Company - Skydive - Reservation Only",
+        "Phone Number": "(702) 825-2123",
+        "Website": "http://www.lasvegasskydivingcompany.com/",
+        "Hours of Operation": null,
+        "Latitude": 36.1445813,
+        "Longitude": -115.2746367
+    },
+    {
+        "Name": "Skydive New England",
+        "Phone Number": "(207) 339-1520",
+        "Website": "https://www.skydivenewengland.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 7:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 7:00 PM",
+            "Friday: 9:00 AM - 7:00 PM",
+            "Saturday: 8:00 AM - 7:00 PM",
+            "Sunday: 8:00 AM - 7:00 PM"
+        ],
+        "Latitude": 43.3717536,
+        "Longitude": -70.9245605
+    },
+    {
+        "Name": "SkyVenture New Hampshire",
+        "Phone Number": "(603) 897-0002",
+        "Website": "https://skyventurenh.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 2:00 - 8:00 PM",
+            "Thursday: 2:00 - 8:00 PM",
+            "Friday: 2:00 - 8:00 PM",
+            "Saturday: 11:00 AM - 6:00 PM",
+            "Sunday: 11:00 AM - 6:00 PM"
+        ],
+        "Latitude": 42.71402489999999,
+        "Longitude": -71.4410339
+    },
+    {
+        "Name": "Skydive Pepperell",
+        "Phone Number": "(978) 433-9222",
+        "Website": "http://www.skyjump.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 6:00 PM",
+            "Tuesday: 9:00 AM - 6:00 PM",
+            "Wednesday: 9:00 AM - 6:00 PM",
+            "Thursday: 9:00 AM - 6:00 PM",
+            "Friday: 9:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 42.6942845,
+        "Longitude": -71.5533653
+    },
+    {
+        "Name": "Garden State Skydiving",
+        "Phone Number": "(844) 569-5867",
+        "Website": "http://www.gardenstateskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 6:00 PM",
+            "Tuesday: 9:00 AM - 6:00 PM",
+            "Wednesday: 9:00 AM - 6:00 PM",
+            "Thursday: 9:00 AM - 6:00 PM",
+            "Friday: 9:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 40.5862009,
+        "Longitude": -75.0130526
+    },
+    {
+        "Name": "Skydive Sussex",
+        "Phone Number": "(973) 702-7000",
+        "Website": "https://www.skydivesussex.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 41.2005199,
+        "Longitude": -74.62524189999999
+    },
+    {
+        "Name": "iFLY Indoor Skydiving- Paramus",
+        "Phone Number": "(201) 733-4359",
+        "Website": "http://www.iflyworld.com/paramus?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 11:00 AM - 8:00 PM",
+            "Tuesday: 11:00 AM - 8:00 PM",
+            "Wednesday: 11:00 AM - 8:00 PM",
+            "Thursday: 11:00 AM - 8:00 PM",
+            "Friday: 11:00 AM - 8:30 PM",
+            "Saturday: 10:00 AM - 9:00 PM",
+            "Sunday: 10:00 AM - 8:00 PM"
+        ],
+        "Latitude": 40.916444,
+        "Longitude": -74.054017
+    },
+    {
+        "Name": "Skydive Cross Keys",
+        "Phone Number": "(856) 629-7553",
+        "Website": "https://www.skydivecrosskeys.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 AM - 5:00 PM",
+            "Thursday: 10:00 AM - 5:00 PM",
+            "Friday: 10:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 39.70656139999999,
+        "Longitude": -75.0326432
+    },
+    {
+        "Name": "Skydive East Coast",
+        "Phone Number": "(609) 294-5858",
+        "Website": "http://www.skydiveeastcoast.com/",
+        "Hours of Operation": [
+            "Monday: 8:30 AM - 3:30 PM",
+            "Tuesday: Closed",
+            "Wednesday: 8:30 AM - 3:30 PM",
+            "Thursday: 8:30 AM - 3:30 PM",
+            "Friday: 8:30 AM - 3:30 PM",
+            "Saturday: 8:30 AM - 4:30 PM",
+            "Sunday: 8:30 AM - 4:30 PM"
+        ],
+        "Latitude": 39.6667825,
+        "Longitude": -74.3122288
+    },
+    {
+        "Name": "New York Tandem Skydiving",
+        "Phone Number": "(973) 659-4736",
+        "Website": "http://www.newyorktandemskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:30 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 41.1291983,
+        "Longitude": -74.3428648
+    },
+    {
+        "Name": "iFLY Indoor Skydiving New Jersey-Edison",
+        "Phone Number": "(732) 362-4359",
+        "Website": "https://www.iflyworld.com/edison/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 7:00 PM",
+            "Tuesday: 10:00 AM - 7:00 PM",
+            "Wednesday: 10:00 AM - 7:00 PM",
+            "Thursday: 10:00 AM - 7:00 PM",
+            "Friday: 10:00 AM - 7:00 PM",
+            "Saturday: 10:00 AM - 7:00 PM",
+            "Sunday: 10:00 AM - 7:00 PM"
+        ],
+        "Latitude": 40.518911,
+        "Longitude": -74.369446
+    },
+    {
+        "Name": "Skydive Store Inc",
+        "Phone Number": "(856) 629-4600",
+        "Website": "http://www.mopro-seven.net/contact",
+        "Hours of Operation": null,
+        "Latitude": 39.7065594,
+        "Longitude": -75.0326224
+    },
+    {
+        "Name": "Skydive Jersey",
+        "Phone Number": "(866) 669-3020",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 40.5886172,
+        "Longitude": -75.0134923
+    },
+    {
+        "Name": "Skydive New Mexico",
+        "Phone Number": "(505) 864-7942",
+        "Website": "http://www.skydivenm.net/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11804619635045716716",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 6:30 PM",
+            "Sunday: 8:00 AM - 6:30 PM"
+        ],
+        "Latitude": 34.644459,
+        "Longitude": -106.8311402
+    },
+    {
+        "Name": "Sun City Skydive (El Paso)",
+        "Phone Number": "(915) 910-2447",
+        "Website": "https://linktr.ee/suncityskydive",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 7:00 AM - 6:00 PM",
+            "Saturday: 7:00 AM - 6:00 PM",
+            "Sunday: 7:00 AM - 6:00 PM"
+        ],
+        "Latitude": 31.8762505,
+        "Longitude": -106.7083037
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Westchester",
+        "Phone Number": "(914) 449-4359",
+        "Website": "https://www.iflyworld.com/westchester/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 11:00 AM - 8:00 PM",
+            "Tuesday: 11:00 AM - 7:30 PM",
+            "Wednesday: 11:00 AM - 8:00 PM",
+            "Thursday: 11:00 AM - 8:00 PM",
+            "Friday: 11:00 AM - 8:30 PM",
+            "Saturday: 10:00 AM - 9:00 PM",
+            "Sunday: 10:00 AM - 8:00 PM"
+        ],
+        "Latitude": 40.965022,
+        "Longitude": -73.858469
+    },
+    {
+        "Name": "Long Island Skydiving Center",
+        "Phone Number": "(631) 351-5867",
+        "Website": "https://www.longislandskydiving.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 4:00 PM",
+            "Tuesday: 9:00 AM - 4:00 PM",
+            "Wednesday: 9:00 AM - 4:00 PM",
+            "Thursday: 9:00 AM - 4:00 PM",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ],
+        "Latitude": 40.81511250000001,
+        "Longitude": -72.8664172
+    },
+    {
+        "Name": "iFLY Indoor Skydiving New York-Queens",
+        "Phone Number": "(212) 977-4359",
+        "Website": "https://www.iflyworld.com/queens/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": null,
+        "Latitude": 40.740983,
+        "Longitude": -73.95376499999999
+    },
+    {
+        "Name": "Skydive Long Island",
+        "Phone Number": "(631) 208-3900",
+        "Website": "https://www.skydivelongisland.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 8:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 40.8150892,
+        "Longitude": -72.8663961
+    },
+    {
+        "Name": "iFLY Indoor Skydiving- Paramus",
+        "Phone Number": "(201) 733-4359",
+        "Website": "http://www.iflyworld.com/paramus?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 11:00 AM - 8:00 PM",
+            "Tuesday: 11:00 AM - 8:00 PM",
+            "Wednesday: 11:00 AM - 8:00 PM",
+            "Thursday: 11:00 AM - 8:00 PM",
+            "Friday: 11:00 AM - 8:30 PM",
+            "Saturday: 10:00 AM - 9:00 PM",
+            "Sunday: 10:00 AM - 8:00 PM"
+        ],
+        "Latitude": 40.916444,
+        "Longitude": -74.054017
+    },
+    {
+        "Name": "Former Parachute Jump Ride",
+        "Phone Number": null,
+        "Website": null,
+        "Hours of Operation": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ],
+        "Latitude": 40.572968,
+        "Longitude": -73.9844076
+    },
+    {
+        "Name": "New York Tandem Skydiving",
+        "Phone Number": "(973) 659-4736",
+        "Website": "http://www.newyorktandemskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:30 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 41.1291983,
+        "Longitude": -74.3428648
+    },
+    {
+        "Name": "The Blue Sky Ranch",
+        "Phone Number": "(845) 255-9538",
+        "Website": "https://theblueskyranch.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 5:00 PM",
+            "Tuesday: 10:00 AM - 5:00 PM",
+            "Wednesday: 10:00 AM - 5:00 PM",
+            "Thursday: 10:00 AM - 5:00 PM",
+            "Friday: 10:00 AM - 5:00 PM",
+            "Saturday: 7:30 AM - 6:00 PM",
+            "Sunday: 7:30 AM - 6:00 PM"
+        ],
+        "Latitude": 41.674197,
+        "Longitude": -74.1502
+    },
+    {
+        "Name": "Skydive Central New York",
+        "Phone Number": "(315) 535-7777",
+        "Website": "http://www.skydivecny.com/",
+        "Hours of Operation": [
+            "Monday: 12:30 - 6:30 PM",
+            "Tuesday: Closed",
+            "Wednesday: 12:30 - 6:30 PM",
+            "Thursday: 10:30 AM - 6:30 PM",
+            "Friday: 10:30 AM - 6:30 PM",
+            "Saturday: 9:00 AM - 6:30 PM",
+            "Sunday: 9:00 AM - 6:30 PM"
+        ],
+        "Latitude": 43.08011,
+        "Longitude": -76.538701
+    },
+    {
+        "Name": "Skydive The Ranch",
+        "Phone Number": "(845) 255-4033",
+        "Website": "https://skydivetheranch.com/",
+        "Hours of Operation": null,
+        "Latitude": 41.674251,
+        "Longitude": -74.150205
+    },
+    {
+        "Name": "leadership center",
+        "Phone Number": "(800) 624-2593",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 40.8138215,
+        "Longitude": -73.2191321
+    },
+    {
+        "Name": "Piedmont Skydiving",
+        "Phone Number": "(704) 603-7920",
+        "Website": "http://www.piedmontskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 35.6389884,
+        "Longitude": -80.5250854
+    },
+    {
+        "Name": "Skydive Central North Carolina",
+        "Phone Number": "(704) 787-5944",
+        "Website": "http://www.skydivecentralnc.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 9:00 PM",
+            "Tuesday: 9:00 AM - 9:00 PM",
+            "Wednesday: 9:00 AM - 9:00 PM",
+            "Thursday: 9:00 AM - 9:00 PM",
+            "Friday: 9:00 AM - 9:00 PM",
+            "Saturday: 9:00 AM - 9:00 PM",
+            "Sunday: 9:00 AM - 9:00 PM"
+        ],
+        "Latitude": 35.57541750000001,
+        "Longitude": -81.11352670000001
+    },
+    {
+        "Name": "Skydive Paraclete XP",
+        "Phone Number": "(910) 904-0000",
+        "Website": "http://skydiveparacletexp.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 35.01831200000001,
+        "Longitude": -79.18926499999999
+    },
+    {
+        "Name": "Paraclete XP Indoor Skydiving",
+        "Phone Number": "(910) 848-2600",
+        "Website": "http://paracletexp.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 7:00 PM",
+            "Tuesday: 9:00 AM - 7:00 PM",
+            "Wednesday: 9:00 AM - 7:00 PM",
+            "Thursday: 9:00 AM - 7:00 PM",
+            "Friday: 9:00 AM - 7:00 PM",
+            "Saturday: 9:00 AM - 7:00 PM",
+            "Sunday: 9:00 AM - 7:00 PM"
+        ],
+        "Latitude": 35.032262,
+        "Longitude": -79.10718399999999
+    },
+    {
+        "Name": "Skydive OBX, LLC",
+        "Phone Number": "(252) 678-5867",
+        "Website": "https://www.skydiveobx.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 6:00 PM",
+            "Tuesday: 8:00 AM - 6:00 PM",
+            "Wednesday: 8:00 AM - 6:00 PM",
+            "Thursday: 8:00 AM - 6:00 PM",
+            "Friday: 8:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 35.917567,
+        "Longitude": -75.7002548
+    },
+    {
+        "Name": "Skydive Coastal Carolinas",
+        "Phone Number": "(910) 457-1039",
+        "Website": "https://www.skydivecoastalcarolinas.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 8:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 5:00 PM",
+            "Saturday: 8:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 33.92845549999999,
+        "Longitude": -78.0735558
+    },
+    {
+        "Name": "Cadence Sky Sports",
+        "Phone Number": "(919) 497-5867",
+        "Website": "https://cadenceskydiving.com/?utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 12:00 - 7:30 PM",
+            "Saturday: 8:00 AM - 7:30 PM",
+            "Sunday: 8:00 AM - 7:30 PM"
+        ],
+        "Latitude": 36.0879704,
+        "Longitude": -78.370058
+    },
+    {
+        "Name": "Crystal Coast Skydiving LLC",
+        "Phone Number": "(252) 528-6281",
+        "Website": "http://crystalcoastskydiving.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 34.7337998,
+        "Longitude": -76.654495
+    },
+    {
+        "Name": "CAROLINA SKYDIVING",
+        "Phone Number": "(336) 526-5867",
+        "Website": null,
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: Closed"
+        ],
+        "Latitude": 36.2037488,
+        "Longitude": -80.86402059999999
+    },
+    {
+        "Name": "Remote Control Skydivers By Solomon R/C",
+        "Phone Number": null,
+        "Website": "http://solomonrc.com/",
+        "Hours of Operation": null,
+        "Latitude": 35.44022400000001,
+        "Longitude": -83.4013339
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Charlotte",
+        "Phone Number": "(704) 851-4359",
+        "Website": "https://www.iflyworld.com/charlotte/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 11:30 AM - 5:00 PM",
+            "Tuesday: 12:30 - 6:00 PM",
+            "Wednesday: 12:30 - 6:00 PM",
+            "Thursday: 11:00 AM - 6:00 PM",
+            "Friday: 11:00 AM - 6:00 PM",
+            "Saturday: 10:00 AM - 8:00 PM",
+            "Sunday: 10:00 AM - 6:00 PM"
+        ],
+        "Latitude": 35.36627600000001,
+        "Longitude": -80.714287
+    },
+    {
+        "Name": "DZ Pheasant",
+        "Phone Number": null,
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 34.5207395,
+        "Longitude": -77.54286429999999
+    },
+    {
+        "Name": "Blue Sky Adventure",
+        "Phone Number": null,
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 35.8767231,
+        "Longitude": -78.79305819999999
+    },
+    {
+        "Name": "Golden Knights",
+        "Phone Number": null,
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 35.1572821,
+        "Longitude": -79.00835909999999
+    },
+    {
+        "Name": "Skydive Fargo Inc",
+        "Phone Number": "(701) 281-0149",
+        "Website": "http://skydivefargo.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 5:00 - 7:00 PM",
+            "Saturday: 10:00 AM - 7:00 PM",
+            "Sunday: 10:00 AM - 7:00 PM"
+        ],
+        "Latitude": 46.9038301,
+        "Longitude": -96.9167506
+    },
+    {
+        "Name": "Skydive North Dakota",
+        "Phone Number": null,
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 48.2210516,
+        "Longitude": -101.1859353
+    },
+    {
+        "Name": "Aerohio Skydiving LLC",
+        "Phone Number": "(800) 726-3483",
+        "Website": "http://www.aerohio.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 40.8976223,
+        "Longitude": -82.2569803
+    },
+    {
+        "Name": "Skydive Greene County",
+        "Phone Number": "(937) 372-0700",
+        "Website": "http://www.skydiveohio.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 8:00 PM",
+            "Tuesday: 9:00 AM - 8:00 PM",
+            "Wednesday: 9:00 AM - 8:00 PM",
+            "Thursday: 9:00 AM - 8:00 PM",
+            "Friday: 9:00 AM - 8:00 PM",
+            "Saturday: 9:00 AM - 8:00 PM",
+            "Sunday: 9:00 AM - 8:00 PM"
+        ],
+        "Latitude": 39.67841660000001,
+        "Longitude": -83.866355
+    },
+    {
+        "Name": "Canton Air Sports",
+        "Phone Number": "(330) 823-0370",
+        "Website": "https://canton-airsports.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 8:00 PM",
+            "Tuesday: 9:00 AM - 8:00 PM",
+            "Wednesday: 9:00 AM - 8:00 PM",
+            "Thursday: 9:00 AM - 8:00 PM",
+            "Friday: 9:00 AM - 8:00 PM",
+            "Saturday: 9:00 AM - 8:00 PM",
+            "Sunday: 9:00 AM - 8:00 PM"
+        ],
+        "Latitude": 40.9733235,
+        "Longitude": -81.1007573
+    },
+    {
+        "Name": "Start Skydiving",
+        "Phone Number": "(513) 422-5867",
+        "Website": "https://startskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 12:00 - 3:00 PM",
+            "Tuesday: 12:00 - 3:00 PM",
+            "Wednesday: 12:00 - 3:00 PM",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ],
+        "Latitude": 39.529565,
+        "Longitude": -84.3928083
+    },
+    {
+        "Name": "Cleveland Skydiving Center",
+        "Phone Number": "(330) 977-7510",
+        "Website": "http://www.skydivecle.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 7:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 11:00 AM - 7:00 PM",
+            "Thursday: 11:00 AM - 7:00 PM",
+            "Friday: 9:00 AM - 7:00 PM",
+            "Saturday: 9:00 AM - 7:00 PM",
+            "Sunday: 9:00 AM - 7:00 PM"
+        ],
+        "Latitude": 41.3520922,
+        "Longitude": -81.099254
+    },
+    {
+        "Name": "Skydive Sports",
+        "Phone Number": null,
+        "Website": "https://skydivesports.business.site/?utm_source=gmb&utm_medium=referral",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 9:00 PM",
+            "Tuesday: 9:00 AM - 9:00 PM",
+            "Wednesday: 9:00 AM - 9:00 PM",
+            "Thursday: 9:00 AM - 9:00 PM",
+            "Friday: 9:00 AM - 9:00 PM",
+            "Saturday: 9:00 AM - 9:00 PM",
+            "Sunday: Closed"
+        ],
+        "Latitude": 39.478101,
+        "Longitude": -84.095406
+    },
+    {
+        "Name": "Skydive Cincinnati",
+        "Phone Number": "(513) 282-3725",
+        "Website": "https://www.skydivecincinnati.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 4:00 - 8:00 PM",
+            "Thursday: Closed",
+            "Friday: 12:00 - 8:00 PM",
+            "Saturday: 9:00 AM - 8:00 PM",
+            "Sunday: 9:00 AM - 8:00 PM"
+        ],
+        "Latitude": 39.5022433,
+        "Longitude": -84.1283828
+    },
+    {
+        "Name": "Skydive Rick's",
+        "Phone Number": "(330) 426-2565",
+        "Website": "http://www.skydivericks.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 5:00 - 8:30 PM",
+            "Thursday: 5:00 - 8:30 PM",
+            "Friday: 5:00 - 8:30 PM",
+            "Saturday: 9:00 AM - 8:30 PM",
+            "Sunday: 9:00 AM - 8:30 PM"
+        ],
+        "Latitude": 40.9002645,
+        "Longitude": -80.5549384
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Cincinnati",
+        "Phone Number": "(513) 901-4359",
+        "Website": "https://www.iflyworld.com/cincinnati/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 12:30 - 6:00 PM",
+            "Thursday: 12:30 - 6:00 PM",
+            "Friday: 10:00 AM - 6:30 PM",
+            "Saturday: 10:00 AM - 8:00 PM",
+            "Sunday: 11:00 AM - 7:00 PM"
+        ],
+        "Latitude": 39.37044599999999,
+        "Longitude": -84.367661
+    },
+    {
+        "Name": "aérodrome de Gates",
+        "Phone Number": null,
+        "Website": "http://clevelandskydivingcenter.com/",
+        "Hours of Operation": null,
+        "Latitude": 41.3520698,
+        "Longitude": -81.0992584
+    },
+    {
+        "Name": "Skydive Airtight",
+        "Phone Number": "(918) 396-7855",
+        "Website": "http://www.skydiveairtight.com/?utm_source=Google%20MyBusiness%20Listing&utm_medium=Local%20SEO",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 5:00 PM",
+            "Tuesday: 8:00 AM - 5:00 PM",
+            "Wednesday: 8:00 AM - 5:00 PM",
+            "Thursday: 8:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 5:00 PM",
+            "Saturday: 8:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 36.3543861,
+        "Longitude": -96.0123306
+    },
+    {
+        "Name": "Oklahoma Skydiving Center",
+        "Phone Number": "(918) 225-2222",
+        "Website": "https://oklahomaskydiving.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 4:00 - 9:00 PM",
+            "Tuesday: 4:00 - 9:00 PM",
+            "Wednesday: 4:00 - 9:00 PM",
+            "Thursday: 4:00 - 9:00 PM",
+            "Friday: 8:00 AM - 9:00 PM",
+            "Saturday: 8:00 AM - 9:00 PM",
+            "Sunday: 8:00 AM - 9:00 PM"
+        ],
+        "Latitude": 35.9520093,
+        "Longitude": -96.77560779999999
+    },
+    {
+        "Name": "Skydive Cherokee",
+        "Phone Number": "(918) 759-3483",
+        "Website": "https://918skydive.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 9:00 PM",
+            "Tuesday: 9:00 AM - 9:00 PM",
+            "Wednesday: 9:00 AM - 9:00 PM",
+            "Thursday: 9:00 AM - 9:00 PM",
+            "Friday: 9:00 AM - 9:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 35.6607371,
+        "Longitude": -95.35841219999999
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Oklahoma City",
+        "Phone Number": "(405) 300-4359",
+        "Website": "https://www.iflyworld.com/oklahoma-city/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 11:30 AM - 6:30 PM",
+            "Thursday: 11:30 AM - 6:30 PM",
+            "Friday: 12:00 - 7:00 PM",
+            "Saturday: 8:00 AM - 4:30 PM",
+            "Sunday: 9:00 AM - 4:00 PM"
+        ],
+        "Latitude": 35.607959,
+        "Longitude": -97.53838999999999
+    },
+    {
+        "Name": "Adventure Skydive Center, LLC. Siloam Springs, AR",
+        "Phone Number": "(479) 228-0029",
+        "Website": "https://mygbp.site/oklahoma/adventure-skydive-center/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 6:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 35.4378706,
+        "Longitude": -94.8053705
+    },
+    {
+        "Name": "Skydive Oregon",
+        "Phone Number": "(503) 829-3483",
+        "Website": "http://www.skydiveoregon.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 6:00 PM",
+            "Tuesday: 10:00 AM - 6:00 PM",
+            "Wednesday: 10:00 AM - 6:00 PM",
+            "Thursday: 10:00 AM - 6:00 PM",
+            "Friday: 9:00 AM - 7:00 PM",
+            "Saturday: 9:00 AM - 7:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 45.1473339,
+        "Longitude": -122.6185163
+    },
+    {
+        "Name": "PNW Skydiving",
+        "Phone Number": "(503) 759-4455",
+        "Website": "http://www.pnwskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 12:00 - 9:00 PM",
+            "Tuesday: 12:00 - 9:00 PM",
+            "Wednesday: 12:00 - 9:00 PM",
+            "Thursday: Closed",
+            "Friday: 12:00 - 9:00 PM",
+            "Saturday: 9:00 AM - 9:00 PM",
+            "Sunday: 9:00 AM - 9:00 PM"
+        ],
+        "Latitude": 45.220061,
+        "Longitude": -122.5893069
+    },
+    {
+        "Name": "Skydive",
+        "Phone Number": "(503) 630-5867",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 45.31805800000001,
+        "Longitude": -122.362039
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Portland",
+        "Phone Number": "(971) 803-4359",
+        "Website": "https://www.iflyworld.com/portland/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 11:30 AM - 5:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 AM - 5:00 PM",
+            "Thursday: 11:00 AM - 6:00 PM",
+            "Friday: 11:00 AM - 6:00 PM",
+            "Saturday: 11:00 AM - 6:00 PM",
+            "Sunday: 10:00 AM - 5:00 PM"
+        ],
+        "Latitude": 45.44346499999999,
+        "Longitude": -122.779193
+    },
+    {
+        "Name": "Eugene Skydivers",
+        "Phone Number": "(541) 895-3029",
+        "Website": "http://www.eugeneskydivers.com/",
+        "Hours of Operation": null,
+        "Latitude": 43.93282500000001,
+        "Longitude": -123.0084313
+    },
+    {
+        "Name": "Skydive Pennsylvania",
+        "Phone Number": "(724) 748-5377",
+        "Website": "https://skydivepa.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 6:00 PM",
+            "Tuesday: 8:00 AM - 6:00 PM",
+            "Wednesday: 8:00 AM - 6:00 PM",
+            "Thursday: 8:00 AM - 6:00 PM",
+            "Friday: 8:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 41.14758140000001,
+        "Longitude": -80.1764283
+    },
+    {
+        "Name": "Skydive NEPA",
+        "Phone Number": "(570) 780-3216",
+        "Website": "http://skydivenepa.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 41.5859791,
+        "Longitude": -75.7553744
+    },
+    {
+        "Name": "PA Skydive Center, Inc.",
+        "Phone Number": "(888) 654-7529",
+        "Website": "http://paskydivecenterinc.com/?utm_source=gmb&utm_medium=referral",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 5:00 - 8:00 PM",
+            "Saturday: 9:00 AM - 7:00 PM",
+            "Sunday: 9:00 AM - 7:00 PM"
+        ],
+        "Latitude": 40.988283,
+        "Longitude": -75.99339499999999
+    },
+    {
+        "Name": "Above the Poconos Skydivers",
+        "Phone Number": "(888) 654-7529",
+        "Website": "http://paskydivecenterinc.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 11:00 AM - 4:00 PM",
+            "Sunday: 11:00 AM - 4:00 PM"
+        ],
+        "Latitude": 40.9882088,
+        "Longitude": -75.9925456
+    },
+    {
+        "Name": "High Time Skydiving Enterprise",
+        "Phone Number": "(610) 442-7500",
+        "Website": "http://www.hightimeskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 6:00 PM",
+            "Tuesday: 10:00 AM - 6:00 PM",
+            "Wednesday: 10:00 AM - 6:00 PM",
+            "Thursday: 10:00 AM - 6:00 PM",
+            "Friday: 10:00 AM - 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ],
+        "Latitude": 40.2525538,
+        "Longitude": -75.4034587
+    },
+    {
+        "Name": "Skydive Philadelphia",
+        "Phone Number": "(215) 258-2255",
+        "Website": "https://www.skydivephiladelphia.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 12:00 - 4:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 40.3919868,
+        "Longitude": -75.2861404
+    },
+    {
+        "Name": "Chambersburg Skydiving Center Inc",
+        "Phone Number": "(800) 526-3497",
+        "Website": "http://www.skydivingcenter.net/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 AM - 7:00 PM",
+            "Thursday: 9:00 AM - 7:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 39.9723014,
+        "Longitude": -77.6468124
+    },
+    {
+        "Name": "Pegasus Skydive Center",
+        "Phone Number": "(570) 569-0015",
+        "Website": "http://www.skydivepegasus.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 7:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM - 7:00 PM",
+            "Friday: 9:00 AM - 7:00 PM",
+            "Saturday: 9:00 AM - 7:30 PM",
+            "Sunday: 9:00 AM - 7:00 PM"
+        ],
+        "Latitude": 40.9336306,
+        "Longitude": -75.35410759999999
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - King of Prussia",
+        "Phone Number": "(610) 595-4359",
+        "Website": "http://www.iflyworld.com/king-of-prussia?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 11:00 AM - 8:00 PM",
+            "Tuesday: 11:00 AM - 8:00 PM",
+            "Wednesday: 11:00 AM - 8:00 PM",
+            "Thursday: 11:00 AM - 8:00 PM",
+            "Friday: 11:00 AM - 8:30 PM",
+            "Saturday: 10:00 AM - 9:00 PM",
+            "Sunday: 10:00 AM - 8:00 PM"
+        ],
+        "Latitude": 40.09290000000001,
+        "Longitude": -75.400829
+    },
+    {
+        "Name": "Maytown Sport Parachute Club",
+        "Phone Number": "(717) 653-0422",
+        "Website": "http://www.skydivemspc.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: 5:00 - 9:00 PM",
+            "Wednesday: Closed",
+            "Thursday: 5:00 - 9:00 PM",
+            "Friday: Closed",
+            "Saturday: 10:00 AM - 9:00 PM",
+            "Sunday: 10:00 AM - 9:00 PM"
+        ],
+        "Latitude": 40.089859,
+        "Longitude": -76.576443
+    },
+    {
+        "Name": "Skydive Newport",
+        "Phone Number": "(401) 845-0393",
+        "Website": "https://www.skydivenewport.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 41.5317763,
+        "Longitude": -71.283372
+    },
+    {
+        "Name": "Boston Skydive Center",
+        "Phone Number": "(508) 759-3483",
+        "Website": "https://www.bostonskydivecenter.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 6:00 PM",
+            "Tuesday: 9:00 AM - 1:00 PM",
+            "Wednesday: 8:00 AM - 6:00 PM",
+            "Thursday: 9:00 AM - 6:00 PM",
+            "Friday: 9:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 7:00 PM",
+            "Sunday: 8:00 AM - 7:00 PM"
+        ],
+        "Latitude": 41.92477029999999,
+        "Longitude": -71.4850235
+    },
+    {
+        "Name": "Skydive Carolina",
+        "Phone Number": "(803) 581-5867",
+        "Website": "https://www.skydivecarolina.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 6:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 10:00 AM - 6:00 PM",
+            "Friday: 10:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 34.792906,
+        "Longitude": -81.187548
+    },
+    {
+        "Name": "Flying Tigers Sport Parachute Center",
+        "Phone Number": "(864) 350-8279",
+        "Website": "https://www.facebook.com/skydivingflyingtigers/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 6:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 34.4947886,
+        "Longitude": -82.71277049999999
+    },
+    {
+        "Name": "Blue Sky Café",
+        "Phone Number": "(803) 581-5867",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 34.7922868,
+        "Longitude": -81.1883375
+    },
+    {
+        "Name": "Skydive Hotsprings",
+        "Phone Number": "(605) 484-7247",
+        "Website": "http://www.skydivehotsprings.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:30 AM - 6:00 PM",
+            "Sunday: 8:30 AM - 6:00 PM"
+        ],
+        "Latitude": 43.3668705,
+        "Longitude": -103.3891253
+    },
+    {
+        "Name": "Skydive Sturgis",
+        "Phone Number": null,
+        "Website": "http://www.jumpsturgis.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 44.5102976,
+        "Longitude": -103.4460737
+    },
+    {
+        "Name": "skydine",
+        "Phone Number": "(605) 681-8009",
+        "Website": "https://www.skydine.com/contact-us",
+        "Hours of Operation": null,
+        "Latitude": 43.5457062,
+        "Longitude": -96.7389051
+    },
+    {
+        "Name": "Skydive Adventures",
+        "Phone Number": "(605) 274-9970",
+        "Website": "http://www.skydiveadventures.net/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 4:00 PM",
+            "Sunday: 11:00 AM - 4:00 PM"
+        ],
+        "Latitude": 43.6226382,
+        "Longitude": -96.2142437
+    },
+    {
+        "Name": "Skydive East Tennessee",
+        "Phone Number": "(865) 223-5155",
+        "Website": "http://www.skydiveet.com/",
+        "Hours of Operation": [
+            "Monday: 12:00 - 5:00 PM",
+            "Tuesday: 12:00 - 5:00 PM",
+            "Wednesday: Closed",
+            "Thursday: 12:00 - 5:00 PM",
+            "Friday: 12:00 - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 36.01414099999999,
+        "Longitude": -83.546669
+    },
+    {
+        "Name": "Skydive Tennessee",
+        "Phone Number": "(931) 455-4574",
+        "Website": "http://skydivetullahoma.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: 8:00 AM - 8:00 PM",
+            "Wednesday: 8:00 AM - 8:00 PM",
+            "Thursday: 8:00 AM - 8:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 35.3800342,
+        "Longitude": -86.2392514
+    },
+    {
+        "Name": "West Tennessee Skydiving",
+        "Phone Number": "(901) 759-3483",
+        "Website": "http://skydivekingair.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 35.2187172,
+        "Longitude": -89.1891893
+    },
+    {
+        "Name": "Music City Skydiving",
+        "Phone Number": "(931) 299-7137",
+        "Website": "http://www.musiccityskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 36.1150012,
+        "Longitude": -87.74148339999999
+    },
+    {
+        "Name": "East Tennessee Skydiving",
+        "Phone Number": "(865) 240-0811",
+        "Website": "http://skydiveet.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 12:00 AM",
+            "Tuesday: 8:00 AM - 12:00 AM",
+            "Wednesday: 8:00 AM - 12:00 AM",
+            "Thursday: 8:00 AM - 12:00 AM",
+            "Friday: 8:00 AM - 12:00 AM",
+            "Saturday: 8:00 AM - 12:00 AM",
+            "Sunday: 8:00 AM - 12:00 AM"
+        ],
+        "Latitude": 35.9787718,
+        "Longitude": -84.13295950000001
+    },
+    {
+        "Name": "Skydive Mountain City",
+        "Phone Number": "(919) 664-0771",
+        "Website": "http://skydivemountaincity.com/",
+        "Hours of Operation": null,
+        "Latitude": 36.4166485,
+        "Longitude": -81.824497
+    },
+    {
+        "Name": "JumpTN",
+        "Phone Number": "(423) 765-5111",
+        "Website": "http://www.jumptn.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 36.1946319,
+        "Longitude": -82.8098938
+    },
+    {
+        "Name": "Chattanooga Skydiving Company",
+        "Phone Number": "(855) 776-5867",
+        "Website": "http://www.chattanoogaskydivingcompany.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 5:00 PM",
+            "Tuesday: 8:00 AM - 5:00 PM",
+            "Wednesday: 8:00 AM - 5:00 PM",
+            "Thursday: 8:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 5:00 PM",
+            "Saturday: 8:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 35.0598401,
+        "Longitude": -85.5850062
+    },
+    {
+        "Name": "Skydive Spaceland Dallas",
+        "Phone Number": "(903) 364-5103",
+        "Website": "https://dallas.skydivespaceland.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 5:00 PM",
+            "Tuesday: 8:00 AM - 5:00 PM",
+            "Wednesday: 8:00 AM - 5:00 PM",
+            "Thursday: 8:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 5:00 PM",
+            "Saturday: 7:30 AM - 6:00 PM",
+            "Sunday: 7:30 AM - 6:00 PM"
+        ],
+        "Latitude": 33.44922,
+        "Longitude": -96.37828499999999
+    },
+    {
+        "Name": "Texas Skydiving",
+        "Phone Number": "(979) 540-8336",
+        "Website": "https://www.texasskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 7:00 PM",
+            "Tuesday: 9:00 AM - 7:00 PM",
+            "Wednesday: 9:00 AM - 7:00 PM",
+            "Thursday: 9:00 AM - 7:00 PM",
+            "Friday: 9:00 AM - 7:00 PM",
+            "Saturday: 9:00 AM - 7:00 PM",
+            "Sunday: 9:00 AM - 7:00 PM"
+        ],
+        "Latitude": 30.4166795,
+        "Longitude": -96.96749790000001
+    },
+    {
+        "Name": "Skydive Houston",
+        "Phone Number": "(832) 622-6181",
+        "Website": "http://www.skydivehouston.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 29.9953265,
+        "Longitude": -95.93235829999999
+    },
+    {
+        "Name": "Skydive Spaceland San Marcos",
+        "Phone Number": "(512) 488-2214",
+        "Website": "https://sanmarcos.skydivespaceland.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 5:00 PM",
+            "Tuesday: 8:00 AM - 5:00 PM",
+            "Wednesday: 8:00 AM - 5:00 PM",
+            "Thursday: 8:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 5:00 PM",
+            "Saturday: 7:30 AM - 5:00 PM",
+            "Sunday: 7:30 AM - 5:00 PM"
+        ],
+        "Latitude": 29.7698726,
+        "Longitude": -97.7725753
+    },
+    {
+        "Name": "Dallas Skydive Center",
+        "Phone Number": "(972) 552-7790",
+        "Website": "http://www.dallasskydivecenter.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 4:00 PM",
+            "Tuesday: 9:00 AM - 4:00 PM",
+            "Wednesday: 9:00 AM - 4:00 PM",
+            "Thursday: 9:00 AM - 4:00 PM",
+            "Friday: 9:00 AM - 4:00 PM",
+            "Saturday: 9:00 AM - 4:00 PM",
+            "Sunday: 9:00 AM - 4:00 PM"
+        ],
+        "Latitude": 33.039443,
+        "Longitude": -96.247052
+    },
+    {
+        "Name": "Skydive Spaceland Houston",
+        "Phone Number": "(281) 369-3337",
+        "Website": "https://houston.skydivespaceland.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 5:00 PM",
+            "Tuesday: 8:00 AM - 5:00 PM",
+            "Wednesday: 8:00 AM - 5:00 PM",
+            "Thursday: 8:00 AM - 5:00 PM",
+            "Friday: 8:00 AM - 5:00 PM",
+            "Saturday: 7:30 AM - 6:00 PM",
+            "Sunday: 7:30 AM - 6:00 PM"
+        ],
+        "Latitude": 29.35945749999999,
+        "Longitude": -95.4605983
+    },
+    {
+        "Name": "Dallas Tandem Skydiving",
+        "Phone Number": "(214) 838-0111",
+        "Website": "http://www.dallastandemskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 6:30 AM - 8:00 PM",
+            "Tuesday: 6:30 AM - 8:00 PM",
+            "Wednesday: 6:30 AM - 8:00 PM",
+            "Thursday: 6:30 AM - 8:00 PM",
+            "Friday: 6:30 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 7:00 PM",
+            "Sunday: 8:00 AM - 4:00 PM"
+        ],
+        "Latitude": 32.3260728,
+        "Longitude": -96.6635822
+    },
+    {
+        "Name": "Skydive Tandem Greenville LLC",
+        "Phone Number": "(903) 303-9828",
+        "Website": null,
+        "Hours of Operation": [
+            "Monday: 8:30 AM - 8:30 PM",
+            "Tuesday: 8:30 AM - 8:30 PM",
+            "Wednesday: 8:30 AM - 8:30 PM",
+            "Thursday: 8:30 AM - 8:30 PM",
+            "Friday: 8:30 AM - 8:30 PM",
+            "Saturday: 8:30 AM - 8:30 PM",
+            "Sunday: 8:30 AM - 8:30 PM"
+        ],
+        "Latitude": 31.7803373,
+        "Longitude": -95.70097469999999
+    },
+    {
+        "Name": "Skydive Galveston",
+        "Phone Number": "(409) 256-9613",
+        "Website": "https://skydivegalveston.com/",
+        "Hours of Operation": [
+            "Monday: 7:30 AM - 6:30 PM",
+            "Tuesday: 7:30 AM - 6:30 PM",
+            "Wednesday: 7:30 AM - 6:30 PM",
+            "Thursday: 7:30 AM - 6:30 PM",
+            "Friday: 7:30 AM - 6:30 PM",
+            "Saturday: 7:30 AM - 6:30 PM",
+            "Sunday: 7:30 AM - 6:30 PM"
+        ],
+        "Latitude": 29.25396969999999,
+        "Longitude": -94.8556061
+    },
+    {
+        "Name": "Skydive East Texas",
+        "Phone Number": "(903) 845-5867",
+        "Website": "http://skydiveeasttx.com/",
+        "Hours of Operation": null,
+        "Latitude": 32.529013,
+        "Longitude": -94.968266
+    },
+    {
+        "Name": "Skydive Castroville-Skydive near San Antonio",
+        "Phone Number": "(830) 444-5003",
+        "Website": "https://www.skydivecastroville.com/",
+        "Hours of Operation": [
+            "Monday: 6:00 AM - 6:00 PM",
+            "Tuesday: 6:00 AM - 6:00 PM",
+            "Wednesday: 6:00 AM - 6:00 PM",
+            "Thursday: 6:00 AM - 6:00 PM",
+            "Friday: 6:00 AM - 6:00 PM",
+            "Saturday: 6:00 AM - 6:00 PM",
+            "Sunday: 6:00 AM - 6:00 PM"
+        ],
+        "Latitude": 29.3422285,
+        "Longitude": -98.8476697
+    },
+    {
+        "Name": "The Skydiving Company",
+        "Phone Number": "(844) 759-3483",
+        "Website": "http://www.theskydivingcompany.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": null,
+        "Latitude": 30.9145677,
+        "Longitude": -95.950699
+    },
+    {
+        "Name": "Sky Dive West Texas",
+        "Phone Number": "(309) 453-8259",
+        "Website": "https://skydivewesttexas.com/",
+        "Hours of Operation": null,
+        "Latitude": 32.95815529999999,
+        "Longitude": -102.5370556
+    },
+    {
+        "Name": "Skydive Skylark",
+        "Phone Number": "(254) 947-3483",
+        "Website": "https://skydiveskylark.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 12:00 - 6:00 PM",
+            "Friday: 12:00 - 6:00 PM",
+            "Saturday: 8:00 AM - 6:00 PM",
+            "Sunday: 8:00 AM - 6:00 PM"
+        ],
+        "Latitude": 31.0880484,
+        "Longitude": -97.6839995
+    },
+    {
+        "Name": "Skydive Wes-Tex",
+        "Phone Number": "(432) 458-3483",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 32.1711808,
+        "Longitude": -101.8190897
+    },
+    {
+        "Name": "Skydive South Texas/ Mustang Island Skydiving",
+        "Phone Number": "(361) 945-5867",
+        "Website": "http://www.skydivesouthtexas.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 11:00 AM - 6:00 PM",
+            "Saturday: 9:00 AM - 6:00 PM",
+            "Sunday: 11:00 AM - 5:00 PM"
+        ],
+        "Latitude": 27.8095467,
+        "Longitude": -97.08679079999999
+    },
+    {
+        "Name": "iSkydive San Antonio",
+        "Phone Number": "(830) 444-5003",
+        "Website": "https://www.skydivecastroville.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 12:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 8:00 AM - 12:00 PM",
+            "Saturday: 8:00 AM - 12:00 PM",
+            "Sunday: 8:00 AM - 12:00 PM"
+        ],
+        "Latitude": 29.34338079999999,
+        "Longitude": -98.8479947
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Fort Worth",
+        "Phone Number": "(817) 818-4359",
+        "Website": "https://www.iflyworld.com/fort-worth/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 11:00 AM - 6:00 PM",
+            "Thursday: 11:00 AM - 6:00 PM",
+            "Friday: 11:00 AM - 6:00 PM",
+            "Saturday: 10:00 AM - 6:30 PM",
+            "Sunday: 10:00 AM - 6:30 PM"
+        ],
+        "Latitude": 32.821222,
+        "Longitude": -97.20676999999999
+    },
+    {
+        "Name": "Skydive Freedom",
+        "Phone Number": "(833) 586-7759",
+        "Website": "http://www.skydivefreedom.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 29.8369261,
+        "Longitude": -95.95171479999999
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Dallas",
+        "Phone Number": "(214) 618-4359",
+        "Website": "https://www.iflyworld.com/dallas/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 12:00 - 7:00 PM",
+            "Tuesday: 12:00 - 7:00 PM",
+            "Wednesday: 12:00 - 7:00 PM",
+            "Thursday: 12:00 - 7:00 PM",
+            "Friday: 12:00 - 7:00 PM",
+            "Saturday: 9:00 AM - 8:00 PM",
+            "Sunday: 10:00 AM - 7:00 PM"
+        ],
+        "Latitude": 33.095423,
+        "Longitude": -96.812366
+    },
+    {
+        "Name": "Skydive Moab",
+        "Phone Number": "(435) 259-5867",
+        "Website": "http://www.skydivemoab.com/",
+        "Hours of Operation": [
+            "Monday: 7:00 AM - 8:00 PM",
+            "Tuesday: 7:00 AM - 8:00 PM",
+            "Wednesday: 7:00 AM - 8:00 PM",
+            "Thursday: 7:00 AM - 8:00 PM",
+            "Friday: 7:00 AM - 8:00 PM",
+            "Saturday: 7:00 AM - 8:00 PM",
+            "Sunday: 7:00 AM - 8:00 PM"
+        ],
+        "Latitude": 38.7595649,
+        "Longitude": -109.7453422
+    },
+    {
+        "Name": "Skydive the Wasatch",
+        "Phone Number": "(385) 321-0284",
+        "Website": "https://skydivethewasatch.com/",
+        "Hours of Operation": null,
+        "Latitude": 39.73687,
+        "Longitude": -111.866908
+    },
+    {
+        "Name": "Skydive Zion",
+        "Phone Number": "(435) 635-3742",
+        "Website": "http://www.skydivezion.com/",
+        "Hours of Operation": null,
+        "Latitude": 37.1412768,
+        "Longitude": -113.3039546
+    },
+    {
+        "Name": "iFly Utah",
+        "Phone Number": "(801) 528-5348",
+        "Website": "http://www.iflyutah.com/",
+        "Hours of Operation": [
+            "Monday: 11:00 AM - 9:00 PM",
+            "Tuesday: 11:00 AM - 9:00 PM",
+            "Wednesday: 11:00 AM - 9:00 PM",
+            "Thursday: 11:00 AM - 9:00 PM",
+            "Friday: 11:00 AM - 9:00 PM",
+            "Saturday: 11:00 AM - 9:00 PM",
+            "Sunday: 11:00 AM - 5:00 PM"
+        ],
+        "Latitude": 41.225335,
+        "Longitude": -111.9718435
+    },
+    {
+        "Name": "Utah Skydiving Adventures - Skydive Ogden",
+        "Phone Number": "(801) 627-5867",
+        "Website": "http://skydiveogden.com/",
+        "Hours of Operation": null,
+        "Latitude": 41.1999382,
+        "Longitude": -111.9993712
+    },
+    {
+        "Name": "Skydive Utah",
+        "Phone Number": "(435) 833-9999",
+        "Website": "http://www.skydiveutah.com/",
+        "Hours of Operation": null,
+        "Latitude": 40.61167399999999,
+        "Longitude": -112.3477706
+    },
+    {
+        "Name": "Tandem Jump",
+        "Phone Number": null,
+        "Website": "https://skydivemoab.com/",
+        "Hours of Operation": null,
+        "Latitude": 38.75956790000001,
+        "Longitude": -109.7453331
+    },
+    {
+        "Name": "JUMP by Limitless Flight",
+        "Phone Number": "(801) 830-2239",
+        "Website": "https://www.limitlessflight.com/",
+        "Hours of Operation": [
+            "Monday: 5:00 - 9:00 PM",
+            "Tuesday: 5:00 - 9:00 PM",
+            "Wednesday: 5:00 - 9:00 PM",
+            "Thursday: 5:00 - 9:00 PM",
+            "Friday: 5:00 - 9:00 PM",
+            "Saturday: 11:00 AM - 9:00 PM",
+            "Sunday: Closed"
+        ],
+        "Latitude": 40.4848182,
+        "Longitude": -111.904648
+    },
+    {
+        "Name": "Skydive Vermont",
+        "Phone Number": "(802) 309-8067",
+        "Website": "http://www.skydive-vermont.com/",
+        "Hours of Operation": null,
+        "Latitude": 44.9354682,
+        "Longitude": -73.09385
+    },
+    {
+        "Name": "Vermont Skydiving Adventures",
+        "Phone Number": "(802) 759-3483",
+        "Website": "https://www.vermont-skydiving.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 6:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 9:00 AM - 6:00 PM",
+            "Saturday: 9:00 AM - 6:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 44.0717586,
+        "Longitude": -73.3785539
+    },
+    {
+        "Name": "No Limits Skydiving",
+        "Phone Number": "(866) 553-2915",
+        "Website": "http://nolimitsskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 11:00 PM",
+            "Tuesday: 8:00 AM - 11:00 PM",
+            "Wednesday: 8:00 AM - 11:00 PM",
+            "Thursday: 8:00 AM - 11:00 PM",
+            "Friday: 8:00 AM - 11:00 PM",
+            "Saturday: 8:00 AM - 11:00 PM",
+            "Sunday: 8:00 AM - 11:00 PM"
+        ],
+        "Latitude": 37.523622,
+        "Longitude": -76.762699
+    },
+    {
+        "Name": "No Limits Skydiving",
+        "Phone Number": "(866) 553-2915",
+        "Website": "http://nolimitsskydiving.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 11:00 PM",
+            "Tuesday: 8:00 AM - 11:00 PM",
+            "Wednesday: 8:00 AM - 11:00 PM",
+            "Thursday: 8:00 AM - 11:00 PM",
+            "Friday: 8:00 AM - 11:00 PM",
+            "Saturday: 8:00 AM - 11:00 PM",
+            "Sunday: 8:00 AM - 11:00 PM"
+        ],
+        "Latitude": 36.96014099999999,
+        "Longitude": -78.18365299999999
+    },
+    {
+        "Name": "iFLY VA Beach",
+        "Phone Number": "(757) 754-4359",
+        "Website": "https://www.iflyvabeach.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 7:00 PM",
+            "Tuesday: 10:00 AM - 7:00 PM",
+            "Wednesday: 10:00 AM - 7:00 PM",
+            "Thursday: 10:00 AM - 7:00 PM",
+            "Friday: 9:00 AM - 8:00 PM",
+            "Saturday: 9:00 AM - 8:00 PM",
+            "Sunday: 9:00 AM - 7:00 PM"
+        ],
+        "Latitude": 36.852937,
+        "Longitude": -75.97796819999999
+    },
+    {
+        "Name": "Skydive Orange",
+        "Phone Number": "(703) 759-3483",
+        "Website": "https://www.skydiveorange.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 38.2488553,
+        "Longitude": -78.048188
+    },
+    {
+        "Name": "iSkydive DC",
+        "Phone Number": "(202) 509-0799",
+        "Website": "http://www.dcskydivingcenter.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 9:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 8:00 AM - 9:00 PM",
+            "Friday: 8:00 AM - 9:00 PM",
+            "Saturday: 8:00 AM - 9:00 PM",
+            "Sunday: 8:00 AM - 9:00 PM"
+        ],
+        "Latitude": 38.59250249999999,
+        "Longitude": -77.7129211
+    },
+    {
+        "Name": "Skydive Suffolk",
+        "Phone Number": "(757) 539-3531",
+        "Website": "https://www.skydivesuffolk.com/?utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 5:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 10:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 36.67929799999999,
+        "Longitude": -76.609051
+    },
+    {
+        "Name": "Skydive Shenandoah",
+        "Phone Number": null,
+        "Website": "http://www.skydiveshenandoah.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 38.6552588,
+        "Longitude": -78.70905669999999
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Loudoun",
+        "Phone Number": "(571) 446-4359",
+        "Website": "http://www.iflyworld.com/loudoun?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 12:00 - 7:00 PM",
+            "Tuesday: 12:30 - 7:30 PM",
+            "Wednesday: 12:30 - 7:30 PM",
+            "Thursday: 12:00 - 7:00 PM",
+            "Friday: 11:00 AM - 8:30 PM",
+            "Saturday: 10:00 AM - 8:00 PM",
+            "Sunday: 10:00 AM - 7:00 PM"
+        ],
+        "Latitude": 39.053774,
+        "Longitude": -77.446925
+    },
+    {
+        "Name": "Skydive Front Royal",
+        "Phone Number": "(540) 935-3279",
+        "Website": "http://www.skydivefrontroyal.com/",
+        "Hours of Operation": null,
+        "Latitude": 38.9188388,
+        "Longitude": -78.2481387
+    },
+    {
+        "Name": "Manquin Flight Park",
+        "Phone Number": "(804) 241-4324",
+        "Website": "http://www.blueskyhg.com/",
+        "Hours of Operation": null,
+        "Latitude": 37.711441,
+        "Longitude": -77.202362
+    },
+    {
+        "Name": "3rd Dimension Productions, LLC",
+        "Phone Number": "(434) 466-5867",
+        "Website": "http://www.3rddimensionproductions.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 11:00 PM",
+            "Tuesday: 8:00 AM - 11:00 PM",
+            "Wednesday: 8:00 AM - 11:00 PM",
+            "Thursday: 8:00 AM - 11:00 PM",
+            "Friday: 8:00 AM - 11:00 PM",
+            "Saturday: 8:00 AM - 11:00 PM",
+            "Sunday: 8:00 AM - 11:00 PM"
+        ],
+        "Latitude": 38.204528,
+        "Longitude": -78.402281
+    },
+    {
+        "Name": "3rd Dimension Productions",
+        "Phone Number": "(434) 466-5867",
+        "Website": "http://www.3rddimensionproductions.com/",
+        "Hours of Operation": null,
+        "Latitude": 38.0293068,
+        "Longitude": -78.4766771
+    },
+    {
+        "Name": "Skydive Snohomish",
+        "Phone Number": "(360) 568-7703",
+        "Website": "http://skydivesnohomish.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 6:00 PM",
+            "Tuesday: 10:00 AM - 6:00 PM",
+            "Wednesday: 10:00 AM - 6:00 PM",
+            "Thursday: 10:00 AM - 6:00 PM",
+            "Friday: 10:00 AM - 6:00 PM",
+            "Saturday: 10:00 AM - 6:00 PM",
+            "Sunday: 10:00 AM - 6:00 PM"
+        ],
+        "Latitude": 47.90718699999999,
+        "Longitude": -122.101278
+    },
+    {
+        "Name": "Skydive Kapowsin",
+        "Phone Number": "(360) 432-8000",
+        "Website": "https://skydivekapowsin.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 11:30 AM - 3:00 PM",
+            "Saturday: 9:30 AM - 3:30 PM",
+            "Sunday: 9:30 AM - 3:30 PM"
+        ],
+        "Latitude": 47.2421123,
+        "Longitude": -123.1419535
+    },
+    {
+        "Name": "Skydive Chelan",
+        "Phone Number": "(509) 881-0687",
+        "Website": "http://www.skydivechelan.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 47.8627777,
+        "Longitude": -119.945816
+    },
+    {
+        "Name": "Rattlesnake Mountain Skydiving",
+        "Phone Number": "(509) 788-8686",
+        "Website": "http://www.rattlesnakemountainskydiving.com/",
+        "Hours of Operation": null,
+        "Latitude": 46.2112602,
+        "Longitude": -119.7858826
+    },
+    {
+        "Name": "Skydive Toledo",
+        "Phone Number": "(360) 864-2230",
+        "Website": "http://www.skydivetoledo.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 10:00 AM - 6:00 PM",
+            "Saturday: 9:00 AM - 6:00 PM",
+            "Sunday: 9:00 AM - 6:00 PM"
+        ],
+        "Latitude": 46.4773868,
+        "Longitude": -122.812362
+    },
+    {
+        "Name": "Skydive West Plains",
+        "Phone Number": "(509) 838-5867",
+        "Website": "http://skydivewestplains.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 7:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM - 7:00 PM",
+            "Friday: 9:00 AM - 7:00 PM",
+            "Saturday: 9:00 AM - 7:00 PM",
+            "Sunday: 9:00 AM - 7:00 PM"
+        ],
+        "Latitude": 47.1608314,
+        "Longitude": -118.2899093
+    },
+    {
+        "Name": "iFLY Indoor Skydiving - Seattle",
+        "Phone Number": "(206) 244-4359",
+        "Website": "https://www.iflyworld.com/seattle/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "Hours of Operation": [
+            "Monday: 12:30 - 6:00 PM",
+            "Tuesday: 12:00 - 7:00 PM",
+            "Wednesday: 12:00 - 7:00 PM",
+            "Thursday: 12:00 - 7:00 PM",
+            "Friday: 12:00 - 7:00 PM",
+            "Saturday: 10:00 AM - 8:00 PM",
+            "Sunday: 10:00 AM - 6:00 PM"
+        ],
+        "Latitude": 47.461173,
+        "Longitude": -122.252643
+    },
+    {
+        "Name": "West Virginia Skydivers",
+        "Phone Number": "(304) 521-8156",
+        "Website": "http://www.wv-skydivers.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:30 PM",
+            "Tuesday: 8:00 AM - 8:30 PM",
+            "Wednesday: 8:00 AM - 8:30 PM",
+            "Thursday: 8:00 AM - 8:30 PM",
+            "Friday: 8:00 AM - 8:30 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: Closed"
+        ],
+        "Latitude": 38.45951539999999,
+        "Longitude": -82.3111351
+    },
+    {
+        "Name": "Skydive Mountaineer",
+        "Phone Number": "(681) 443-4670",
+        "Website": "http://skydivemountaineer.com/",
+        "Hours of Operation": null,
+        "Latitude": 39.64089510000001,
+        "Longitude": -79.9124164
+    },
+    {
+        "Name": "West Virginia Sky Divers",
+        "Phone Number": "(304) 574-1943",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 38.42,
+        "Longitude": -82.44
+    },
+    {
+        "Name": "Wisconsin Skydiving Center",
+        "Phone Number": "(920) 568-1700",
+        "Website": "https://wisconsinskydivingcenter.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 6:00 PM",
+            "Tuesday: 10:00 AM - 6:00 PM",
+            "Wednesday: 10:00 AM - 6:00 PM",
+            "Thursday: 10:00 AM - 6:00 PM",
+            "Friday: 10:00 AM - 6:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 42.9665415,
+        "Longitude": -88.8119858
+    },
+    {
+        "Name": "Skydive Midwest Skydiving Center",
+        "Phone Number": "(262) 886-3480",
+        "Website": "https://skydivemidwest.com/?_vsrefdom=adwords&gclid=Cj0KCQjw4NujBhC5ARIsAF4Iv6ehstm-EhWlu24J3G-CVYaBz-zPVDDpmAtT112Wma9KqVf4x2H01oYaAtdaEALw_wcB",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 5:00 PM",
+            "Tuesday: 9:00 AM - 5:00 PM",
+            "Wednesday: 9:00 AM - 5:00 PM",
+            "Thursday: 9:00 AM - 5:00 PM",
+            "Friday: 9:00 AM - 5:00 PM",
+            "Saturday: 9:00 AM - 5:00 PM",
+            "Sunday: 9:00 AM - 5:00 PM"
+        ],
+        "Latitude": 42.7039099,
+        "Longitude": -87.9583675
+    },
+    {
+        "Name": "Skydive Duluth",
+        "Phone Number": "(218) 390-1800",
+        "Website": "http://skydiveduluth.com/",
+        "Hours of Operation": [
+            "Monday: 9:00 AM - 9:00 PM",
+            "Tuesday: 9:00 AM - 9:00 PM",
+            "Wednesday: 9:00 AM - 9:00 PM",
+            "Thursday: 9:00 AM - 9:00 PM",
+            "Friday: 9:00 AM - 9:00 PM",
+            "Saturday: 8:00 AM - 9:00 PM",
+            "Sunday: 8:00 AM - 9:00 PM"
+        ],
+        "Latitude": 46.6825,
+        "Longitude": -92.09646099999999
+    },
+    {
+        "Name": "Skydive Milwaukee / Sky Knights SPC",
+        "Phone Number": "(262) 642-9494",
+        "Website": "http://www.skydivemilwaukee.com/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM - 5:00 PM",
+            "Sunday: 8:00 AM - 5:00 PM"
+        ],
+        "Latitude": 42.80213440000001,
+        "Longitude": -88.3710332
+    },
+    {
+        "Name": "Skydive Twin Cities LLC",
+        "Phone Number": "(715) 684-3416",
+        "Website": "http://www.skydivetwincities.com/",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 7:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 10:00 AM - 7:00 PM",
+            "Friday: 10:00 AM - 7:00 PM",
+            "Saturday: 8:00 AM - 7:00 PM",
+            "Sunday: 8:00 AM - 7:00 PM"
+        ],
+        "Latitude": 44.964544,
+        "Longitude": -92.39057400000002
+    },
+    {
+        "Name": "Seven Hills Skydivers of Madison, WI",
+        "Phone Number": "(608) 244-5252",
+        "Website": "https://sevenhillsskydivers.org/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 3:00 - 8:30 PM",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM - 8:30 PM",
+            "Sunday: 9:00 AM - 8:30 PM"
+        ],
+        "Latitude": 43.26082100000001,
+        "Longitude": -89.067792
+    },
+    {
+        "Name": "Skydive Freefall Adventure",
+        "Phone Number": "(920) 366-6086",
+        "Website": "http://www.skydivefreefalladventure.com/",
+        "Hours of Operation": [
+            "Monday: 8:00 AM - 8:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 8:00 AM - 8:00 PM",
+            "Saturday: 8:00 AM - 8:00 PM",
+            "Sunday: 8:00 AM - 8:00 PM"
+        ],
+        "Latitude": 44.642414,
+        "Longitude": -88.21117199999999
+    },
+    {
+        "Name": "Skydive Wissota",
+        "Phone Number": "(715) 726-1616",
+        "Website": "http://www.skydivewissota.org/",
+        "Hours of Operation": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 4:00 - 10:00 PM",
+            "Thursday: Closed",
+            "Friday: 4:00 - 10:00 PM",
+            "Saturday: 10:00 AM - 10:00 PM",
+            "Sunday: 10:00 AM - 9:00 PM"
+        ],
+        "Latitude": 44.9359931,
+        "Longitude": -91.27153770000001
+    },
+    {
+        "Name": "Parachute Magic",
+        "Phone Number": "(651) 216-1873",
+        "Website": "http://www.parachutemagic.com/contact.html",
+        "Hours of Operation": [
+            "Monday: 10:00 AM - 3:30 PM",
+            "Tuesday: 10:00 AM - 3:30 PM",
+            "Wednesday: 10:00 AM - 3:30 PM",
+            "Thursday: 10:00 AM - 3:30 PM",
+            "Friday: 10:00 AM - 3:30 PM",
+            "Saturday: 10:00 AM - 3:30 PM",
+            "Sunday: 10:00 AM - 3:30 PM"
+        ],
+        "Latitude": 44.9644925,
+        "Longitude": -92.3905418
+    },
+    {
+        "Name": "DZONE™ Skydiving - Jackson Hole",
+        "Phone Number": "(307) 733-5867",
+        "Website": null,
+        "Hours of Operation": null,
+        "Latitude": 43.6034561,
+        "Longitude": -110.7363619
+    }
+]

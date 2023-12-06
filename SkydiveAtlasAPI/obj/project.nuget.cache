@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EWovxhzH3HDRg5+aylDeo7FJXknnMYLfMIonyXbAAtzoLQ94gowpqZr78T9rQGeYvARdc1+c6XuIB6ivAKRlEg==",
+  "dgSpecHash": "CoLkPdIiZAE9Aw3tpT7/eLH+TZhyEp375BSpnaBI51O2dExp8m/ZszHVL44g9+v+tqATvbZ/W0575kqyIWBwHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jack.rigdon\\source\\repos\\fall2023-jackrigdon\\SkydiveAtlasAPI\\SkydiveAtlasAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jack.rigdon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\jack.rigdon\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jack.rigdon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\jack.rigdon\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\jack.rigdon\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\jack.rigdon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

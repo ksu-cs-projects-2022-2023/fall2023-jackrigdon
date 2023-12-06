@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkydiveAtlasAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2017e1584e3e170cd9da59ee651e2d4d0e6d4fec")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkydiveAtlasAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkydiveAtlasAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -52,7 +52,7 @@ body, html {
     margin: 0;
     padding: 0;
     background-color: #e0f7fa; /* Light blue background color */
-    overflow: hidden;
+   overflow: hidden;
 }
 
 /* Login Page Styles */
@@ -92,7 +92,8 @@ body, html {
 }
 
 .map-container {
-    margin: 20px;
-    height: calc(100vh - 40px - 100px); /* Adjust the 60px based on your title's height */
-    width: calc(100vw - 100px);
+    margin: 20px; /* Uniform margin on all sides */
+    height: calc(100vh - 150px); /* Subtract margins from viewport height */
+    width: calc(100vw - 140px); /* Adjust width to account for left and right margins */
 }
+

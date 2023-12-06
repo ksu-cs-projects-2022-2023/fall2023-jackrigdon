@@ -32,3 +32,5 @@ C:\Users\jack.rigdon\source\repos\fall2023-jackrigdon\SkydiveAtlasAPI\obj\Debug\
 C:\Users\jack.rigdon\source\repos\fall2023-jackrigdon\SkydiveAtlasAPI\obj\Debug\net6.0\SkydiveAtlasAPI.pdb
 C:\Users\jack.rigdon\source\repos\fall2023-jackrigdon\SkydiveAtlasAPI\obj\Debug\net6.0\SkydiveAtlasAPI.genruntimeconfig.cache
 C:\Users\jack.rigdon\source\repos\fall2023-jackrigdon\SkydiveAtlasAPI\obj\Debug\net6.0\ref\SkydiveAtlasAPI.dll
+C:\Users\jack.rigdon\source\repos\fall2023-jackrigdon\SkydiveAtlasAPI\obj\Debug\net6.0\SkydiveAtlasAPI.sourcelink.json
+C:\Users\jack.rigdon\source\repos\fall2023-jackrigdon\SkydiveAtlasAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
