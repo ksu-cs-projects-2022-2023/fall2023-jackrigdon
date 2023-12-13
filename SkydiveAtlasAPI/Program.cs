@@ -1,13 +1,15 @@
+using Microsoft.Extensions.Configuration;
 using SkydiveAtlasAPI;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<IUserService, UserService>();
 
 builder.Services.AddCors(options =>
 {
@@ -21,6 +23,10 @@ builder.Services.AddCors(options =>
 });
 builder.Services.AddScoped<SkydivingLocationService>();
 builder.Services.AddScoped<WeatherDataService>();
+builder.Services.AddDbContext<SkydiveAtlasContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("SkydiveAtlasContext")));
+
+
 var app = builder.Build();
 
 

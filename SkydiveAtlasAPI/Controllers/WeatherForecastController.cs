@@ -4,6 +4,7 @@ using Newtonsoft.Json;
 using SkydiveAtlasAPI.Models;
 using System;
 using System.Collections.Generic;
+using System.IdentityModel.Tokens.Jwt;
 using System.IO;
 using System.Linq;
 using System.Net.Http;
@@ -25,22 +26,25 @@ namespace SkydiveAtlasAPI.Controllers
         private static DateTime _lastUpdated;
         private const string ApiKey = "9a987c9434dd69ba9a0714016970da7e";
         private readonly string _jsonFilePath = "skydiving_locationz.json";
-
+        private readonly IUserService _userService;
         private readonly ILogger<WeatherForecastController> _logger;
 
         private readonly SkydivingLocationService _locationService;
         private readonly WeatherDataService _weatherService;
+        private readonly SkydiveAtlasContext _context;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger, SkydivingLocationService locationService, WeatherDataService weatherService)
+        public WeatherForecastController(ILogger<WeatherForecastController> logger, SkydivingLocationService locationService, WeatherDataService weatherService, IUserService userService, SkydiveAtlasContext context)
         {
             _logger = logger;
             _locationService = locationService;
             _weatherService = weatherService;
+            _userService = userService;
             if (_cachedLocations == null)
             {
                 _cachedLocations = new List<SkydivingLocation>();
                 _lastUpdated = DateTime.MinValue;
             }
+            _context = context;
         }
 
         [HttpGet("forecast", Name = "GetWeatherForecast")]
@@ -74,25 +78,105 @@ namespace SkydiveAtlasAPI.Controllers
         [HttpGet("skydiving-locations", Name = "GetSkydivingLocations")]
         public async Task<IEnumerable<SkydivingLocation>> GetSkyDivingLocations()
         {
-            if (DateTime.Now.Subtract(_lastUpdated).TotalHours < 1)
-            {
-                // Return cached data if last update was less than an hour ago
-                return _cachedLocations;
-            }
-
             var skydivingLocations = _locationService.ReadSkydivingLocationsFromJson(_jsonFilePath);
             //var limitedLocations = skydivingLocations.Take(10).ToList();
 
+            bool isWeatherDataUpdated = false;
+
             foreach (var location in skydivingLocations)
             {
-                location.Weather = await _weatherService.FetchWeatherDataAsync(location.Latitude, location.Longitude, ApiKey);
+                // Always update the reviews
+                var reviews = await _userService.GetReviewsByCoordinates(location.Latitude, location.Longitude);
+                if (reviews != null && reviews.Any())
+                {
+                    location.Reviews = reviews;
+                    location.AverageRating = reviews.Average(r => r.Rating);
+                }
+
+                // Check if weather data needs updating
+                if (DateTime.Now.Subtract(_lastUpdated).TotalHours >= 1)
+                {
+                    location.Weather = await _weatherService.FetchWeatherDataAsync(location.Latitude, location.Longitude, ApiKey);
+                    isWeatherDataUpdated = true;
+
+                    if (location.Weather != null)
+                    {
+                        location.SkydivingScore = _locationService.CalculateSkydivingScore(location.Weather);
+                    }
+                }
+                else
+                {
+                    // Use cached weather data
+                    var cachedLocation = _cachedLocations.FirstOrDefault(l => l.Latitude == location.Latitude && l.Longitude == location.Longitude);
+                    if (cachedLocation != null)
+                    {
+                        location.Weather = cachedLocation.Weather;
+                        location.SkydivingScore = cachedLocation.SkydivingScore;
+                    }
+                }
             }
 
-            // Update the static cache
-            _cachedLocations = skydivingLocations;
-            _lastUpdated = DateTime.Now;
+            // Update the static cache and the last updated timestamp if weather data is updated
+            if (isWeatherDataUpdated)
+            {
+                _cachedLocations = skydivingLocations;
+                _lastUpdated = DateTime.Now;
+            }
 
             return skydivingLocations;
+        }
+
+
+
+        // POST: /users/authenticate
+        [HttpPost("authenticate")]
+        public async Task<IActionResult> Authenticate([FromBody] OAuthToken token)
+        {
+            var handler = new JwtSecurityTokenHandler();
+            var jsonToken = handler.ReadToken(token.Token) as JwtSecurityToken;
+
+            var oauthId = jsonToken?.Claims.FirstOrDefault(claim => claim.Type == "sub")?.Value;
+            var firstName = jsonToken?.Claims.FirstOrDefault(claim => claim.Type == "given_name")?.Value;
+            var lastName = jsonToken?.Claims.FirstOrDefault(claim => claim.Type == "family_name")?.Value;
+            var email = jsonToken?.Claims.FirstOrDefault(claim => claim.Type == "email")?.Value;
+
+            var user = await _userService.GetUserByUsernameAsync(email);
+
+            if (user == null)
+            {
+                var newUser = new OAuthCredentials
+                {
+                    first_name = firstName,
+                    last_name = lastName,
+                    username = email
+                };
+                user = await _userService.CreateUserAsync(newUser);
+            }
+
+            return Ok(user);
+        }
+
+        [HttpPost("Review")]
+        public async Task<IActionResult> AddReview([FromBody] ReviewModel reviewModel)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var review = new Review
+            {
+                Latitude = reviewModel.Latitude,
+                Longitude = reviewModel.Longitude,
+                Comment = reviewModel.Comment,
+                Rating = reviewModel.Rating,
+                //CreatedAt = DateTime.UtcNow // Assuming you want to set the creation time at the server side
+            };
+
+            _context.Reviews.Add(review);
+            await _context.SaveChangesAsync();
+
+            return Ok(review);
         }
 
         /*private List<SkydivingLocation> ReadSkydivingLocationsFromJson()
