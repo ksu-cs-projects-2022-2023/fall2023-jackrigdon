@@ -1,0 +1,186 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #e0f7fa; /* Light blue color */
+}
+
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #e0f7fa; /* Light blue background color */
+   overflow: hidden;
+}
+
+/* Login Page Styles */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-box {
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.login-logo {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.login-title {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Main Page Styles */
+.main-container {
+    text-align: center;
+}
+
+#titleLabel {
+    margin-top: 0;
+    padding-top: 1px;
+}
+
+.map-container {
+    margin: 20px; /* Uniform margin on all sides */
+    height: calc(100vh - 180px); /* Subtract margins from viewport height */
+    width: calc(100vw - 120px); /* Adjust width to account for left and right margins */
+}
+
+.search-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.search-container input {
+    padding: 1px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+.dropdown {
+    position: absolute;
+    background-color: white;
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    z-index: 100;
+    text-align:center;
+}
+
+.dropdown-item {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.dropdown-item:hover {
+    background-color: #f0f0f0;
+}
+
+.review-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    z-index: 100;
+    /* Add more styles as needed */
+}
+
+.info-and-reviews-container {
+    position: relative; /* This container holds both the info and reviews popups */
+}
+
+.location-info-popup {
+   
+    z-index: 1;
+}
+
+.reviews-popup {
+    position: absolute;
+    top: 0;
+    left: 100%; /* Position to the right of the info popup */
+    z-index: 2;
+    background: white;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    max-width: 300px; /* Adjust width as needed */
+    max-height: 400px; /* Adjust height as needed */
+    overflow-y: auto; /* Allows scrolling if content is too long */
+}
+
+
+.close-button {
+    position:absolute;
+    top: 0;
+    right: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+    /* Style the button as needed */
+}
+
+.reviews-popup {
+    /* Existing styles */
+    left: var(--popup-x); /* X position */
+    top: var(--popup-y); /* Y position */
+}
+
+
+
